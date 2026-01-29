@@ -1,12 +1,8 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Mann%20Patel&fontSize=44&fontColor=ffffff&animation=fadeIn" />
 
-<!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Future+Full-Stack+Developer;Exploring+AI+%26+Machine+Learning;Learning+by+Building+Every+Day" />
-
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=mann2007-ptl&style=flat&color=2c5364" />
 
@@ -16,16 +12,10 @@
 
 ## 👋 About Me
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212750191-5b6a3f6f-8b16-4b76-b1d4-3c0dbbaaa60e.gif" width="120"/>
-
-</div>
-
-🎓 I’m a **1st Semester Computer Engineering Student** from **Gujarat, India**.  
-💻 I enjoy turning ideas into **real, usable projects**.  
-🧠 I focus on **fundamentals, logic, and clean code**.  
-🚀 I believe progress comes from **consistency, not shortcuts**.
+🎓 **1st Semester Computer Engineering Student** from **Gujarat, India**  
+💻 I enjoy turning ideas into **real, usable projects**  
+🧠 Strong focus on **fundamentals, logic & clean code**  
+🚀 I believe progress comes from **consistency, not shortcuts**
 
 ---
 
@@ -41,50 +31,94 @@
 
 ## 🌱 Currently Learning
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212750674-6c7c6e35-6f4a-4f47-bbd4-7e1bff1c08b2.gif" width="80"/>
-
-</div>
-
 - Advanced JavaScript concepts  
 - React.js & modern frontend practices  
-- Backend development with MongoDB & APIs  
+- Backend development with MongoDB & REST APIs  
 - Problem-solving & DSA fundamentals  
 
 ---
 
-## 🚀 Featured Projects
+## 🧭 Learning Roadmap
 
-<div align="center">
+### 🟢 Phase 1 — Foundations (Current)
+- 🧠 Programming Logic & C  
+- 🌐 HTML, CSS, JavaScript  
+- 🧩 Problem-Solving Basics  
 
-<img src="https://user-images.githubusercontent.com/74038190/212750079-03dc8eab-84f8-43e6-8b5f-7b24b29e81ab.gif" width="100"/>
+### 🔵 Phase 2 — Frontend Mastery
+- ⚛️ React.js  
+- 📱 Responsive & Accessible UI  
+- 🎨 UI/UX Best Practices  
 
-</div>
+### 🟠 Phase 3 — Backend & Databases
+- 🗄️ MongoDB & SQL  
+- 🔌 REST APIs  
+- 🔐 Authentication Basics  
 
-💡 These projects helped me master **layout, responsiveness & UI accuracy**:
-
-- ⭐ **LACOSTE** — HTML & CSS website clone  
-- ⭐ **JIO-HOTSTAR** — HTML & CSS website clone  
-- ⭐ **SALOMON** — HTML & CSS website clone  
-- ⭐ **STANLEY** — HTML & CSS website clone  
-- ⭐ **YETI** — HTML & CSS website clone  
-- ⭐ **ULTIMATE EARS** — HTML & CSS website clone  
+### 🟣 Phase 4 — Full Stack & AI (2026 Goal)
+- 🚀 Full-Stack Applications  
+- 🤖 AI & Machine Learning Fundamentals  
+- 🌍 Open Source Contributions  
 
 ---
 
-## 🧠 Developer Mindset
+## 🧱 Featured Projects
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750233-96eafc87-1b54-44d6-9e52-d6eafc8b9e8e.gif" width="120"/>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">LACOSTE Clone</h3>
+<img src="https://raw.githubusercontent.com/mann2007-ptl/screenshots/main/lacoste.png" />
+<p align="center">
+<a href="https://lacoste-clone.netlify.app">🌐 Live Demo</a> |
+<a href="https://github.com/mann2007-ptl/lacoste-clone">📂 Source Code</a>
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">JIO HOTSTAR Clone</h3>
+<img src="https://raw.githubusercontent.com/mann2007-ptl/screenshots/main/jio-hotstar.png" />
+<p align="center">
+<a href="https://jio-hotstar-clone.netlify.app">🌐 Live Demo</a> |
+<a href="https://github.com/mann2007-ptl/jio-hotstar-clone">📂 Source Code</a>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">YETI Clone</h3>
+<img src="https://raw.githubusercontent.com/mann2007-ptl/screenshots/main/yeti.png" />
+<p align="center">
+<a href="https://yeti-clone.netlify.app">🌐 Live Demo</a> |
+<a href="https://github.com/mann2007-ptl/yeti-clone">📂 Source Code</a>
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">ULTIMATE EARS Clone</h3>
+<img src="https://raw.githubusercontent.com/mann2007-ptl/screenshots/main/ultimate-ears.png" />
+<p align="center">
+<a href="https://ultimate-ears-clone.netlify.app">🌐 Live Demo</a> |
+<a href="https://github.com/mann2007-ptl/ultimate-ears-clone">📂 Source Code</a>
+</p>
+</td>
+</tr>
+</table>
 
 </div>
 
-- ✅ Strong fundamentals over shortcuts  
-- 🔁 Daily consistent practice  
-- 🧩 Solve before searching  
-- 📈 Long-term growth mindset  
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/mann2007-ptl/mann2007-ptl/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
@@ -102,7 +136,7 @@
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -126,6 +160,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,50:203a43,100:0f2027" />
 
-✨ *Thanks for visiting — let’s build something meaningful.*
+✨ *Thanks for visiting — the journey has just begun.*
 
 </div>
