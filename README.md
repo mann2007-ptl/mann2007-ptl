@@ -1,89 +1,123 @@
-# 👨‍💻 Computer Engineering Student
+<h1 align="center">
+  Hi 👋, I'm Mann Patel
+</h1>
 
-🎓 **1st Semester Computer Engineering Student**  
-📍 **Based in Gujarat, India**  
-🔗 **Aspiring Full-Stack & AI Developer**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Aspiring+Full-Stack+%26+AI+Developer;Learning+by+Building+Projects" alt="Typing SVG" />
+</p>
 
 ---
 
-## 💻 About Me
+## 👨‍💻 About Me
 
-I'm a curious and driven developer who enjoys turning ideas into real projects.
+🎓 **1st Semester Computer Engineering Student**  
+📍 **Gujarat, India**  
+🚀 **Aspiring Full-Stack & AI Developer**
+
+I'm a curious and driven developer who enjoys turning ideas into **real-world projects**.  
+I strongly believe in **learning by building**, improving step by step with consistency.
 
 - 💡 Building real-world web apps & tools  
-- 🤖 Exploring AI, Machine Learning, and modern technologies  
-- 🚀 Creating scalable and user-friendly digital experiences  
+- 🤖 Exploring AI, Machine Learning & modern tech  
+- 🎨 Creating clean, scalable & user-friendly interfaces  
+- 🧠 Strong focus on fundamentals & problem-solving  
 
-I believe in **learning by building**, and I enjoy improving my skills one project at a time.
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,c,html,css" />
+</p>
+
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+### 📦 Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ## 🌱 Currently Learning
+
 - Advanced JavaScript concepts  
 - React.js & modern frontend practices  
-- Backend development with MongoDB & APIs  
-- problem-solving techniques  
+- Backend development with MongoDB & REST APIs  
+- Problem-solving & DSA fundamentals  
 
 ---
 
-## 🛠️ Tech Skills
+## 🚀 Featured Projects
 
-### 🚀 Languages
-- Python   
-- JavaScript  
-- C  
-- HTML & CSS  
+💡 **Focused on UI precision, responsiveness & clean structure**
 
-### 💻 Frontend
-- React.js *(learning)*  
+| Project | Description |
+|-------|------------|
+| ⭐ **LACOSTE** | Website clone using HTML & CSS |
+| ⭐ **JIO-HOTSTAR** | Website clone using HTML & CSS |
+| ⭐ **SALOMON** | Website clone using HTML & CSS |
+| ⭐ **STANLEY** | Website clone using HTML & CSS |
+| ⭐ **YETI** | Website clone using HTML & CSS |
+| ⭐ **ULTIMATE EARS** | Website clone using HTML & CSS |
 
-### 📦 Backend & Databases
-- MongoDB *(learning)*  
-- SQL  
-
-### 🛠️ Tools & More
-- Git & GitHub  
-- VS Code  
-- REST APIs  
-- Browser DevTools  
-
----
-
-## 📌 Featured Projects
-
-Some repositories I’m proud of (feel free to check them out 👇):
-
-- ⭐ **LACOSTE** – lacoste website Clone using HTML & CSS 
-- ⭐ **JIO-HOTSTAR** – jio-hotstar website Clone using HTML & CSS  
-- ⭐ **SALOMON** – salomon website Clone using HTML & CSS  
-- ⭐ **STANLEY** – stanley website Clone using HTML & CSS  
-- ⭐ **YETI** – yeti website Clone using HTML & CSS  
-- ⭐ **ULTIMATE-EARS** – ultimate-ears website Clone using HTML & CSS  
+👉 Check them out on my GitHub repositories!
 
 ---
 
 ## 🧠 Developer Mindset
-- ✅ Strong fundamentals > shortcuts  
-- 🔁 Consistent practice every day  
-- 🧩 Problem-solving before copying solutions  
-- 📈 Focused on long-term growth  
+
+✅ Strong fundamentals > shortcuts  
+🔁 Consistent daily practice  
+🧩 Solve problems before copying solutions  
+📈 Focused on long-term growth  
 
 ---
 
 ## 🎯 Goals for 2026
+
 - Build full-stack web applications  
 - Learn AI & Machine Learning fundamentals  
 - Contribute to open-source projects  
-- Improve DSA and coding consistency  
+- Improve DSA & coding consistency  
 
 ---
 
-## 📫 Let’s Connect
+## 📊 GitHub Stats
 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/mann-patel-839b33399
-- 📂 **GitHub:** https://github.com/mann2007-ptl 
-- 📺 **YouTube:** https://www.youtube.com/@patelmann7197 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mann2007-ptl&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mann2007-ptl&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ **Thanks for visiting my profile — let’s build something awesome!**
+## 🌐 Let’s Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/mann-patel-839b33399">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/mann2007-ptl">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.youtube.com/@patelmann7197">
+    <img src="https://skillicons.dev/icons?i=youtube" />
+  </a>
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile — let’s build something awesome together!**
