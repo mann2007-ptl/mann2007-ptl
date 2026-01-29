@@ -77,19 +77,24 @@
 
 ## 📊 GITHUB ACTIVITY
 
+## 📊 GITHUB ACTIVITY
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mann2007-ptl&show_icons=true&theme=github_dark&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mann2007-ptl&theme=github_dark" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mann2007-ptl&theme=github-dark&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mann2007-ptl&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mann2007-ptl&theme=github_dark" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mann2007-ptl&bg_color=0d1117&color=58a6ff&line=2c5364&point=ffffff&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mann2007-ptl&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mann2007-ptl&theme=github_dark&utcOffset=5.5" />
 
 </div>
+
 
 ---
 
