@@ -81,7 +81,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mann2007-ptl&theme=github_dark" />
+
 
 <br/><br/>
 
