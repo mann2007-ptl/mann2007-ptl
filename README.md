@@ -1,44 +1,89 @@
-Computer Engineering Student
+# 👨‍💻 Computer Engineering Student
 
-🎓 1st semester Computer Engineering
-📍 Based in Gujarat, India
-🔗 Check out my LinkedIn below!
+🎓 **1st Semester Computer Engineering Student**  
+📍 **Based in Gujarat, India**  
+🔗 **Aspiring Full-Stack & AI Developer**
 
-💻 About Me
-I'm passionate about:
+---
 
-💡 Building real-world web apps & tools
-🤖 Exploring AI, Machine Learning, and modern tech
-🚀 Creating scalable digital experiences
-I love learning new technologies and working on projects that help me grow as a developer.
+## 💻 About Me
 
-🛠️ Tech Skills
-🚀 Languages
-Python
-JavaScript
-C
-HTML & CSS
-💻 Frontend
-React.js (learning)
-📦 Backend & Databases
-MongoDB (learning)
-SQL
-🛠 Tools & More
-Git & GitHub
-VS Code
-APIs
-📌 Featured Projects
-Here are some repos I’m proud of (you can pin these too!):
+I'm a curious and driven developer who enjoys turning ideas into real projects.
 
-⭐ Youtube – Youtube Clone made using HTML,CSS AND JS.
-⭐ MaterialKitchen – Material Kitchen Clone made using HTML,CSS.
-⭐ GreatJones – Great Jones Clone made using HTML,CSS.
-⭐ Celestial.ai – Celestial.ai Clone made using HTML,CSS.
-⭐ LovableLabs – Lovable Labs Clone made using HTML,CSS.
-⭐ ICC – ICC-CRICKET Clone made using HTML,CSS.
-📫 Let’s Connect
-🔗 LinkedIn: https://www.linkedin.com/in/dev-daxin-patel/
-📂 GitHub: https://github.com/Dev1822
-📺 YouTube: https://www.youtube.com/@DevDaxinPatel
+- 💡 Building real-world web apps & tools  
+- 🤖 Exploring AI, Machine Learning, and modern technologies  
+- 🚀 Creating scalable and user-friendly digital experiences  
 
-⭐ Thanks for visiting my profile
+I believe in **learning by building**, and I enjoy improving my skills one project at a time.
+
+---
+
+## 🌱 Currently Learning
+- Advanced JavaScript concepts  
+- React.js & modern frontend practices  
+- Backend development with MongoDB & APIs  
+- problem-solving techniques  
+
+---
+
+## 🛠️ Tech Skills
+
+### 🚀 Languages
+- Python   
+- JavaScript  
+- C  
+- HTML & CSS  
+
+### 💻 Frontend
+- React.js *(learning)*  
+
+### 📦 Backend & Databases
+- MongoDB *(learning)*  
+- SQL  
+
+### 🛠️ Tools & More
+- Git & GitHub  
+- VS Code  
+- REST APIs  
+- Browser DevTools  
+
+---
+
+## 📌 Featured Projects
+
+Some repositories I’m proud of (feel free to check them out 👇):
+
+- ⭐ **LACOSTE** – lacoste website Clone using HTML & CSS 
+- ⭐ **JIO-HOTSTAR** – jio-hotstar website Clone using HTML & CSS  
+- ⭐ **SALOMON** – salomon website Clone using HTML & CSS  
+- ⭐ **STANLEY** – stanley website Clone using HTML & CSS  
+- ⭐ **YETI** – yeti website Clone using HTML & CSS  
+- ⭐ **ULTIMATE-EARS** – ultimate-ears website Clone using HTML & CSS  
+
+---
+
+## 🧠 Developer Mindset
+- ✅ Strong fundamentals > shortcuts  
+- 🔁 Consistent practice every day  
+- 🧩 Problem-solving before copying solutions  
+- 📈 Focused on long-term growth  
+
+---
+
+## 🎯 Goals for 2026
+- Build full-stack web applications  
+- Learn AI & Machine Learning fundamentals  
+- Contribute to open-source projects  
+- Improve DSA and coding consistency  
+
+---
+
+## 📫 Let’s Connect
+
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/mann-patel-839b33399
+- 📂 **GitHub:** https://github.com/mann2007-ptl 
+- 📺 **YouTube:** https://www.youtube.com/@patelmann7197 
+
+---
+
+⭐ **Thanks for visiting my profile — let’s build something awesome!**
