@@ -185,14 +185,16 @@
 ## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
+
+> ⚠️ **Setup required:** Create `.github/workflows/snake.yml` in your repo and run the workflow once. The snake will appear here automatically after that!
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mann2007-ptl/mann2007-ptl/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mann2007-ptl/mann2007-ptl/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mann2007-ptl/mann2007-ptl/output/github-snake.svg" />
+  <img alt="🐍 Snake animation will appear here after GitHub Actions setup" src="https://raw.githubusercontent.com/mann2007-ptl/mann2007-ptl/output/github-snake-dark.svg" width="100%" />
 </picture>
-</div>
 
-> ⚙️ *To enable the snake animation, add a GitHub Actions workflow to auto-generate it. DM me if you need help!*
+</div>
 
 ---
 
