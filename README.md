@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- NEON TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=800&color=00FFFF&background=00000000&center=true&vCenter=true&width=700&lines=⚡+Turning+Coffee+Into+Code;🧠+1st+Year+CE+%40+Gujarat%2C+India;🔥+Full-Stack+Developer+In+The+Making;🤖+Exploring+AI+%26+Machine+Learning;💡+Building+The+Future%2C+One+Commit+At+A+Time;🌐+Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=900&color=00FFFF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Turning+Coffee+Into+Code;%F0%9F%A7%A0+1st+Year+CE+Student;%F0%9F%94%A5+Full-Stack+Developer+In+The+Making;%F0%9F%A4%96+Exploring+AI+and+ML;%F0%9F%92%A1+Building+The+Future+One+Commit+At+A+Time;%F0%9F%8C%90+Open+Source+Enthusiast" />
 
 </div>
 
