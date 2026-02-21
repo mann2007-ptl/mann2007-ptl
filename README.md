@@ -159,19 +159,21 @@
 
 <div align="center">
 
-<!-- Stats + Streak -->
-<img src="https://github-readme-stats.vercel.app/api?username=mann2007-ptl&show_icons=true&theme=radical&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=mann2007-ptl&theme=radical&hide_border=true" width="48%" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=mann2007-ptl&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=mann2007-ptl&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
 
 <br/><br/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mann2007-ptl&layout=compact&theme=radical&hide_border=true" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mann2007-ptl&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="45%" />
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mann2007-ptl&theme=react-dark&hide_border=true" width="95%" />
+<!-- Activity Graph (FIXED VERSION) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mann2007-ptl&theme=radical&hide_border=true" width="95%" />
 
 </div>
 
@@ -180,7 +182,7 @@
 ## 🏆 GITHUB TROPHIES
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mann2007-ptl&theme=radical&no-frame=true&margin-w=6&margin-h=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=mann2007-ptl&theme=radical&margin-w=8&margin-h=8" />
 </div>
 
 ---
