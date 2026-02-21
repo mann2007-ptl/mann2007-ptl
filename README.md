@@ -23,25 +23,48 @@
 
 ## ⚡ WHO AM I?
 
-```python
-class MannPatel:
-    def __init__(self):
-        self.name        = "Mann Patel"
-        self.role        = "Computer Engineering Student"
-        self.university  = "Gujarat, India 🇮🇳"
-        self.year        = "1st Semester"
-        self.languages   = ["Python", "JavaScript", "C", "HTML", "CSS"]
-        self.interests   = ["Full-Stack Dev", "AI/ML", "Open Source", "DSA"]
-        self.hobbies     = ["Coding 💻", "Learning 📚", "Building Projects 🚀"]
-        self.currently   = "Grinding React.js + DSA every single day"
-        self.life_motto  = "Consistency > Shortcuts. Always."
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750191-5b6a3f6f-8b16-4b76-b1d4-3c0dbbaaa60e.gif" width="100"/>
+</div>
 
-    def say_hi(self):
-        print("Hey! Let's build something legendary together 🔥")
+<table align="center">
+  <tr>
+    <td>🙋 <b>Name</b></td>
+    <td>Mann Patel</td>
+  </tr>
+  <tr>
+    <td>🎓 <b>Degree</b></td>
+    <td>Computer Engineering — 1st Semester</td>
+  </tr>
+  <tr>
+    <td>📍 <b>Location</b></td>
+    <td>Gujarat, India 🇮🇳</td>
+  </tr>
+  <tr>
+    <td>💻 <b>Languages</b></td>
+    <td>Python · JavaScript · C · HTML · CSS</td>
+  </tr>
+  <tr>
+    <td>🚀 <b>Interests</b></td>
+    <td>Full-Stack Dev · AI/ML · Open Source · DSA</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Currently</b></td>
+    <td>Grinding React.js + DSA every single day</td>
+  </tr>
+  <tr>
+    <td>⚡ <b>Motto</b></td>
+    <td><i>"Consistency &gt; Shortcuts. Always."</i></td>
+  </tr>
+  <tr>
+    <td>💬 <b>Ask me about</b></td>
+    <td>HTML/CSS, Frontend, Python basics</td>
+  </tr>
+</table>
 
-me = MannPatel()
-me.say_hi()
-```
+<br/>
+
+> 💡 *Hey! Let's build something legendary together 🔥*
 
 ---
 
