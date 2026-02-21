@@ -126,16 +126,17 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750674-6c7c6e35-6f4a-4f47-bbd4-7e1bff1c08b2.gif" width="100"/>
 </div>
 
-```
-📦 LEARNING STACK
-┌──────────────────────────────────────────────────┐
-│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  React.js         [70%]   │
-│  ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  Node.js & APIs   [50%]   │
-│  ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  DSA Foundations  [60%]   │
-│  ▓▓▓▓▓▓░░░░░░░░░░░░░░  AI/ML Basics     [30%]   │
-│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  Git & GitHub     [75%]   │
-└──────────────────────────────────────────────────┘
-```
+<div align="center">
+
+| 🚀 Skill | Progress | Level |
+|:---------|:--------:|:-----:|
+| ⚛️ **React.js** | ![70%](https://geps.dev/progress/70?dangerColor=ff00ff&warningColor=00ffff&successColor=00ffff) | `70%` |
+| 🟢 **Node.js & APIs** | ![50%](https://geps.dev/progress/50?dangerColor=ff00ff&warningColor=00ffff&successColor=00ffff) | `50%` |
+| 🧩 **DSA Foundations** | ![60%](https://geps.dev/progress/60?dangerColor=ff00ff&warningColor=00ffff&successColor=00ffff) | `60%` |
+| 🤖 **AI/ML Basics** | ![30%](https://geps.dev/progress/30?dangerColor=ff6b6b&warningColor=ffd700&successColor=00ffff) | `30%` |
+| 🐙 **Git & GitHub** | ![75%](https://geps.dev/progress/75?dangerColor=ff00ff&warningColor=00ffff&successColor=00ffff) | `75%` |
+
+</div>
 
 ---
 
@@ -143,14 +144,12 @@
 
 <div align="center">
 
-```
-⚡ FUNDAMENTALS OVER SHORTCUTS
-🔁 DAILY COMMITS. DAILY GROWTH.
-🧩 UNDERSTAND BEFORE COPY-PASTING
-🎯 BUILD REAL THINGS, NOT JUST TUTORIALS
-💪 EMBRACE HARD PROBLEMS
-🌙 SLEEP IS OPTIONAL. CLEAN CODE ISN'T.
-```
+![Fundamentals](https://img.shields.io/badge/⚡_FUNDAMENTALS_OVER_SHORTCUTS-0d0221?style=for-the-badge&labelColor=0d0221&color=00ffff)
+![Daily Commits](https://img.shields.io/badge/🔁_DAILY_COMMITS._DAILY_GROWTH.-0d0221?style=for-the-badge&labelColor=0d0221&color=ff00ff)
+![Think First](https://img.shields.io/badge/🧩_UNDERSTAND_BEFORE_COPY--PASTING-0d0221?style=for-the-badge&labelColor=0d0221&color=00ffff)
+![Build Real](https://img.shields.io/badge/🎯_BUILD_REAL_THINGS,_NOT_TUTORIALS-0d0221?style=for-the-badge&labelColor=0d0221&color=ff00ff)
+![Hard Problems](https://img.shields.io/badge/💪_EMBRACE_HARD_PROBLEMS-0d0221?style=for-the-badge&labelColor=0d0221&color=00ffff)
+![Clean Code](https://img.shields.io/badge/🌙_CLEAN_CODE_IS_NOT_OPTIONAL-0d0221?style=for-the-badge&labelColor=0d0221&color=ff00ff)
 
 </div>
 
