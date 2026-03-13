@@ -106,7 +106,7 @@ const mann = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=mann2007-ptl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff" width="48%" />
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=mann2007-ptl&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mann2007-ptl&hide_border=true&background=0D1117&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff&sideLabels=ffffff&dates=ffffff&sideNums=00f5ff&currStreakNum=ffffff" width="48%" />
 
 <br/><br/>
 
@@ -120,7 +120,7 @@ const mann = {
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=mann2007-ptl&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/mann2007-ptl)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=mann2007-ptl&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)](https://github.com/mann2007-ptl)
 
 </div>
 
