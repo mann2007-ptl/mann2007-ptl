@@ -116,16 +116,6 @@ const mann = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=mann2007-ptl&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)](https://github.com/mann2007-ptl)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
