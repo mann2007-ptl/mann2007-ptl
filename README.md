@@ -73,14 +73,14 @@ const mann = {
 
 <div align="center">
 
-| Project | Stack | Status |
-|:--------|:------|:------:|
-| 🔍 **[GitHub Profile Analyzer](https://github.com/mann2007-ptl/Github-profileAnalyzer)** | React, GitHub API | ✅ |
-| 🛍️ **LACOSTE Clone** | HTML, CSS | ✅ |
-| 🎬 **JIO HOTSTAR Clone** | HTML, CSS | ✅ |
-| 🏃 **SALOMON Clone** | HTML, CSS | ✅ |
-| 🥤 **STANLEY Clone** | HTML, CSS | ✅ |
-| 🧊 **YETI Clone** | HTML, CSS | ✅ |
+| Project | Stack | Link | Status |
+|:--------|:------|:----:|:------:|
+| 🔍 **GitHub Profile Analyzer** | React, GitHub API | [🔗 Repo](https://github.com/mann2007-ptl/Github-profileAnalyzer) | ✅ |
+| 🛍️ **LACOSTE Clone** | HTML, CSS | [🔗 Repo](https://github.com/mann2007-ptl/diwali_assgn) | ✅ |
+| 🎬 **JIO HOTSTAR Clone** | HTML, CSS | [🔗 Repo](https://github.com/mann2007-ptl/diwali_assgn1) | ✅ |
+| 🏃 **SALOMON Clone** | HTML, CSS | [🔗 Repo](https://github.com/mann2007-ptl/salomon-diwali-asgn) | ✅ |
+| 🥤 **STANLEY Clone** | HTML, CSS | [🔗 Repo](https://github.com/mann2007-ptl/stanley-diwal-assgn-) | ✅ |
+| 🔊 **ULTIMATE EARS Clone** | HTML, CSS | [🔗 Repo](https://github.com/mann2007-ptl/ultimate-ears-diwali-assgn) | ✅ |
 
 </div>
 
