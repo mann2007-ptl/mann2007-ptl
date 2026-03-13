@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d0221,40:1a0533,70:0d1b4b,100:0a2a6b&text=Mann%20Patel&fontSize=70&fontColor=ffffff&fontAlignY=40&stroke=00f5ff&strokeWidth=1.5&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20DSA%20Enthusiast&descSize=17&descAlignY=62&descFontColor=a0c4ff" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=⚛️+React+%7C+Node.js+%7C+MongoDB+%7C+Express;🧠+DSA+Daily+%7C+LeetCode+Grinder;🚀+Building+Real+Projects+Every+Day;🌱+Computer+Engineering+Student+%40+Gujarat" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=%E2%9A%9B%EF%B8%8F+React+%7C+Node.js+%7C+MongoDB+%7C+Express;%F0%9F%A7%A0+DSA+Daily+%7C+LeetCode+Grinder;%F0%9F%9A%80+Building+Real+Projects+Every+Day;%F0%9F%8C%B1+Computer+Engineering+Student+%40+Gujarat" alt="Typing SVG" />
 
 </div>
 
@@ -75,16 +75,16 @@ const mann = {
 
 | Project | Stack | Status |
 |:--------|:------|:------:|
+| 🔍 **[GitHub Profile Analyzer](https://github.com/mann2007-ptl/Github-profileAnalyzer)** | React, GitHub API | ✅ |
 | 🛍️ **LACOSTE Clone** | HTML, CSS | ✅ |
 | 🎬 **JIO HOTSTAR Clone** | HTML, CSS | ✅ |
 | 🏃 **SALOMON Clone** | HTML, CSS | ✅ |
 | 🥤 **STANLEY Clone** | HTML, CSS | ✅ |
 | 🧊 **YETI Clone** | HTML, CSS | ✅ |
-| 🔊 **ULTIMATE EARS Clone** | HTML, CSS | ✅ |
 
 </div>
 
-> 💡 *MERN stack projects dropping soon — stay tuned!*
+> 💡 *More MERN stack projects dropping soon — stay tuned!*
 
 ---
 
