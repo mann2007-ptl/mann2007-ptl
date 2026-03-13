@@ -1,105 +1,176 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:000000,30:0d0221,60:0a0a2e,100:000000&text=MANN%20PATEL&fontSize=60&fontColor=00ffff&stroke=ff00ff&strokeWidth=2&animation=twinkling&desc=Full%20Stack%20Developer&descSize=18&descAlignY=70&descFontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d0221,40:1a0533,70:0d1b4b,100:0a2a6b&text=Mann%20Patel&fontSize=72&fontColor=ffffff&fontAlignY=38&stroke=00f5ff&strokeWidth=1.5&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20DSA%20Enthusiast&descSize=16&descAlignY=60&descFontColor=a0c4ff" width="100%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=900&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Projects+Daily" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=650&lines=🚀+Building+the+Future%2C+One+Commit+at+a+Time;⚛️+React+%7C+Node.js+%7C+MongoDB+%7C+Express;🧠+Sharpening+DSA+Skills+Daily;💡+Turning+Ideas+Into+Real+Products;🌱+Computer+Engineering+Student+%40+Gujarat" alt="Typing SVG" />
 
 </div>
 
----
-
-# 👋 About Me
-
-Hi, I'm **Mann Patel**, a **Computer Engineering student from Gujarat, India 🇮🇳**.
-
-- 💻 Learning **Full Stack Development (MERN)**
-- ⚛️ Currently focusing on **React + Node.js**
-- 🧠 Practicing **DSA daily**
-- 🚀 Love building **real projects**
-
-**Motto:**  
-> Consistency beats shortcuts.
+<br/>
 
 ---
 
-# 🛠️ Tech Stack
+## 🌌 &nbsp;About Me
 
-### Languages
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300px" />
 
+```javascript
+const mann = {
+  name:       "Mann Patel",
+  location:   "Gujarat, India 🇮🇳",
+  education:  "Computer Engineering Student",
+  role:       "Full Stack Developer (MERN)",
+  focus:      ["React", "Node.js", "MongoDB", "DSA"],
+  hobbies:    ["Building Projects", "Problem Solving"],
+  motto:      "Consistency beats shortcuts. 💪"
+};
+```
+
+- 🎓 &nbsp;**Computer Engineering** student from **Gujarat, India**
+- 💻 &nbsp;Mastering **Full Stack Development (MERN Stack)**
+- ⚛️ &nbsp;Currently diving deep into **React + Node.js**
+- 🧠 &nbsp;Practicing **DSA daily** on LeetCode
+- 🚀 &nbsp;I love building **real-world projects** that solve problems
+- 🌱 &nbsp;Always learning, always growing
+
+<br clear="right"/>
+
+---
+
+## ⚡ &nbsp;Tech Stack & Skills
+
+<div align="center">
+
+### 🖥️ Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### Frontend
-
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+### 🔧 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools
-
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-# 🚀 Projects
-
-| Project | Tech |
-|------|------|
-| LACOSTE Clone | HTML CSS |
-| JIO HOTSTAR Clone | HTML CSS |
-| SALOMON Clone | HTML CSS |
-| STANLEY Clone | HTML CSS |
-| YETI Clone | HTML CSS |
-| ULTIMATE EARS Clone | HTML CSS |
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mann2007-ptl&show_icons=true&theme=radical&hide_border=true" width="47%" />
-
-<img src="https://streak-stats.demolab.com?user=mann2007-ptl&theme=radical&hide_border=true" width="47%" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mann2007-ptl&layout=compact&theme=radical&hide_border=true" width="40%" />
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mann2007-ptl/mann2007-ptl/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/mann2007-ptl/mann2007-ptl/output/github-snake-dark.svg" width="100%"/>
-</picture>
-
----
-
-# 🌐 Connect With Me
+## 🚀 &nbsp;Featured Projects
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mann-patel-839b33399)
+| 🎯 Project | 🛠️ Tech Stack | 🔗 Status |
+|:-----------|:--------------|:----------|
+| 🛍️ **LACOSTE Clone** | HTML, CSS | ✅ Completed |
+| 🎬 **JIO HOTSTAR Clone** | HTML, CSS | ✅ Completed |
+| 🏃 **SALOMON Clone** | HTML, CSS | ✅ Completed |
+| 🥤 **STANLEY Clone** | HTML, CSS | ✅ Completed |
+| 🧊 **YETI Clone** | HTML, CSS | ✅ Completed |
+| 🔊 **ULTIMATE EARS Clone** | HTML, CSS | ✅ Completed |
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/mann2007-ptl)
+</div>
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@patelmann7197)
+> 💡 *More MERN stack projects coming soon — stay tuned!*
+
+---
+
+## 🧩 &nbsp;LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Mann2006?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/Mann2006/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Mann2006-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mann2006/)
+
+</div>
+
+---
+
+## 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mann2007-ptl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff" width="48%" />
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=mann2007-ptl&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mann2007-ptl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff" width="40%" />
+
+</div>
+
+---
+
+## 🐍 &nbsp;Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mann2007-ptl/mann2007-ptl/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mann2007-ptl/mann2007-ptl/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mann2007-ptl/mann2007-ptl/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+## 📈 &nbsp;Activity Graph
+
+<div align="center">
+
+[![Mann's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mann2007-ptl&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=true)](https://github.com/mann2007-ptl)
+
+</div>
+
+---
+
+## 🏆 &nbsp;GitHub Trophies
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=mann2007-ptl&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/mann2007-ptl)
+
+</div>
+
+---
+
+## 🌐 &nbsp;Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mann-patel-839b33399)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mann2007-ptl)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@patelmann7197)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mann2006/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2a6b,40:1a0533,70:0d0221,100:000000&height=120&section=footer&animation=fadeIn" width="100%" />
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mann2007-ptl&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+**⭐ Star my repos if you find them useful! Happy Coding! 🚀**
 
 </div>
