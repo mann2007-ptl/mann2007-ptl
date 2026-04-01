@@ -75,7 +75,7 @@ const mann = {
   currentlyLearning: ["TypeScript", "Next.js", "Docker"],
   mindset: "Consistency > shortcuts",
   availableFor: ["Collaborations", "Internships", "Open Source"]
-};
+};```
 🎓 Computer Engineering student from Gujarat, India
 ⚛️ Building full-stack applications with the MERN stack
 🧠 Practicing DSA regularly on LeetCode
