@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0b1020,20:0f172a,50:312e81,80:5b21b6,100:7c3aed&text=Mann%20Patel&fontSize=60&fontColor=ffffff&fontAlignY=36&fontAlign=50&desc=Full%20Stack%20Developer%20%C2%B7%20MERN%20Stack%20%C2%B7%20DSA%20Enthusiast&descAlignY=56&descSize=20&descFontColor=c4b5fd&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0b1020,20:0f172a,50:312e81,80:5b21b6,100:7c3aed&text=Mann%20Patel&fontSize=60&fontColor=ffffff&fontAlignY=36&fontAlign=50&desc=Full%20Stack%20Developer%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20MERN%20Stack&descAlignY=56&descSize=20&descFontColor=c4b5fd&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=800&color=C4B5FD&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=30&lines=Open+to+collaborations%2C+internships%2C+and+open-source;Building+real-world+projects+with+clean+UI+and+strong+logic;Focused+on+learning%2C+building%2C+and+growing+every+day;React+%7C+Node.js+%7C+MongoDB+%7C+Express+%7C+Tailwind" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=800&color=C4B5FD&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=780&height=30&lines=Full-Stack+Developer+%26+UI%2FUX+Designer;Building+modern+web+apps+with+clean+UI+and+strong+logic;Focused+on+MERN+Stack%2C+DSA%2C+and+real-world+projects;Open+to+internships%2C+collaborations%2C+and+open-source" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -38,17 +38,20 @@
 <a href="#about-me">
   <img src="https://img.shields.io/badge/About-0f172a?style=for-the-badge&logo=readme&logoColor=white" />
 </a>&nbsp;
+<a href="#current-focus">
+  <img src="https://img.shields.io/badge/Focus-111827?style=for-the-badge&logo=target&logoColor=white" />
+</a>&nbsp;
 <a href="#tech-stack">
-  <img src="https://img.shields.io/badge/Tech%20Stack-111827?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tech%20Stack-1a1f35?style=for-the-badge&logo=stackoverflow&logoColor=white" />
 </a>&nbsp;
 <a href="#featured-projects">
-  <img src="https://img.shields.io/badge/Projects-1a1f35?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-252945?style=for-the-badge&logo=github&logoColor=white" />
 </a>&nbsp;
 <a href="#github-stats">
-  <img src="https://img.shields.io/badge/GitHub%20Stats-252945?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stats-312e81?style=for-the-badge&logo=githubactions&logoColor=white" />
 </a>&nbsp;
 <a href="#connect-with-me">
-  <img src="https://img.shields.io/badge/Contact-312e81?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contact-4c1d95?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -57,23 +60,40 @@
 
 <div align="center">
 
-### Building clean interfaces, useful projects, and strong problem-solving skills.
+### Full-Stack Developer & UI/UX Designer :contentReference[oaicite:1]{index=1}
 
 </div>
 
 ---
 
-## 🌠 About Me
+## 🚀 About Me
 
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="coding gif" />
+<table width="100%">
+<tr>
+<td width="62%" valign="top">
 
-I am a Computer Engineering student from Gujarat, India, passionate about building modern and useful web applications. I enjoy turning ideas into real projects with clean design, responsive layouts, and practical functionality.
+I am a Computer Engineering student from Gujarat, India, passionate about building modern, user-friendly, and practical web applications.
 
-My main focus is full-stack development using the MERN stack. Along with development, I also spend time improving my problem-solving skills through DSA and consistent coding practice.
+I enjoy creating projects that combine clean interface design with strong functionality. My main focus is full-stack development with the MERN stack, while also improving problem-solving through regular DSA practice.
 
-I am always interested in learning new technologies, building better projects, and growing as a developer through real experience, collaborations, and continuous improvement.
+I like turning ideas into real products, exploring better UI/UX, and continuously growing through projects, consistency, and hands-on learning.
 
-<br clear="right"/>
+</td>
+<td width="38%" align="center" valign="top">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="coding gif" />
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Current Focus
+
+- Building full-stack web applications with clean and responsive UI
+- Improving backend logic, APIs, authentication, and database integration
+- Practicing DSA regularly to strengthen problem-solving skills
+- Learning better project structure, performance, and real-world development patterns
+- Looking for opportunities in internships, collaborations, and open-source work
 
 ---
 
@@ -86,16 +106,22 @@ I am always interested in learning new technologies, building better projects, a
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+<br/>
+
 **Frontend**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+<br/>
+
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<br/>
 
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -107,18 +133,55 @@ I am always interested in learning new technologies, building better projects, a
 
 ---
 
+## 🌟 Highlights
+
+- Focused on building projects that look polished and feel practical
+- Interested in both frontend experience and backend functionality
+- Strong interest in MERN stack, UI/UX design, and scalable web projects
+- Consistent learner with a problem-solving mindset
+- Always trying to improve project quality, structure, and presentation
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **GitHub Profile Analyzer** | Analyze GitHub profiles, repositories, and languages with a clean UI | `React` `GitHub API` |
-| **LACOSTE Clone** | Frontend clone focused on layout, design, and visual accuracy | `HTML` `CSS` |
-| **JIO HOTSTAR Clone** | OTT-inspired frontend UI with structured sections | `HTML` `CSS` |
-| **SALOMON Clone** | Modern e-commerce style landing page clone | `HTML` `CSS` |
+<table>
+<tr>
+<th>Project</th>
+<th>What it does</th>
+<th>Stack</th>
+</tr>
+<tr>
+<td><b>GitHub Profile Analyzer</b></td>
+<td>Analyzes GitHub profiles, repositories, and coding activity in a clean interface.</td>
+<td><code>React</code> <code>GitHub API</code></td>
+</tr>
+<tr>
+<td><b>Portfolio Website</b></td>
+<td>Personal portfolio showcasing projects, skills, visual design, and developer identity.</td>
+<td><code>React</code> <code>Tailwind</code></td>
+</tr>
+<tr>
+<td><b>LACOSTE Clone</b></td>
+<td>Frontend clone focused on layout accuracy, product sections, and visual presentation.</td>
+<td><code>HTML</code> <code>CSS</code></td>
+</tr>
+<tr>
+<td><b>JIO HOTSTAR Clone</b></td>
+<td>Streaming-platform-inspired interface with clean sections and organized content blocks.</td>
+<td><code>HTML</code> <code>CSS</code></td>
+</tr>
+</table>
 
 </div>
+
+---
+
+## 📈 Learning Journey
+
+I believe in learning by building. Every project helps me improve my UI skills, development logic, debugging ability, and confidence in creating real applications. My goal is not just to write code, but to build projects that are clean, useful, and presentable.
 
 ---
 
@@ -181,6 +244,6 @@ I am always interested in learning new technologies, building better projects, a
 
 ⭐ **Thanks for visiting my profile**
 
-*Let's connect and build something amazing together.*
+*Let’s connect, collaborate, and build something meaningful.*
 
 </div>
