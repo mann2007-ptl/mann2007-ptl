@@ -1,42 +1,40 @@
 <div align="center">
 
-<!-- ============================== LANDING PAGE HERO ============================== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:3b022c,35:7c1d1d,70:b45309,100:f59e0b&text=Mann%20Patel&fontSize=52&fontColor=fff7ed&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20DSA%20Enthusiast&descAlignY=58&descSize=18&descFontColor=fed7aa&animation=fadeIn" width="100%" />
+<!-- ============================== HERO ============================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0b1020,25:111827,55:312e81,75:5b21b6,100:7c3aed&text=Mann%20Patel&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=19&descFontColor=c4b5fd&animation=fadeIn" width="100%" />
 
-<br>
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/⚡%20React-7c2d12?style=flat-square&logo=react&logoColor=fef3c7&labelColor=7c2d12" />
-  <img src="https://img.shields.io/badge/Node.js-7c2d12?style=flat-square&logo=nodedotjs&logoColor=fef3c7&labelColor=7c2d12" />
-  <img src="https://img.shields.io/badge/MongoDB-7c2d12?style=flat-square&logo=mongodb&logoColor=fef3c7&labelColor=7c2d12" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=C4B5FD&center=true&vCenter=true&width=860&lines=%F0%9F%9A%80+Building+real-world+projects+with+clean+UI+and+strong+logic;%F0%9F%A7%A0+LeetCode+grinder+focused+on+consistency+and+growth;%E2%9A%A1+React+%7C+Node.js+%7C+MongoDB+%7C+Express;%F0%9F%A4%9D+Open+to+collaborations%2C+internships%2C+and+open-source" alt="Typing SVG" />
+
+<br/><br/>
 
 <a href="https://mann-portfolio-six.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0b1220?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://github.com/mann2007-ptl">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/mann-patel-839b33399">
-  <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/Mann2006/">
-  <img src="https://img.shields.io/badge/LeetCode-f59e0b?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 <a href="https://www.youtube.com/@patelmann7197">
-  <img src="https://img.shields.io/badge/YouTube-ef4444?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-<br><br>
+<br/><br/>
 
 <a href="https://komarev.com/ghpvc/?username=mann2007-ptl">
-  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-rising-7c3aed?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=mann2007-ptl&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 </a>
 <a href="https://github.com/mann2007-ptl?tab=followers">
-  <img src="https://img.shields.io/badge/FOLLOWERS-Growing-9333ea?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/mann2007-ptl?style=for-the-badge&color=7c3aed&labelColor=111827" />
 </a>
 <a href="https://github.com/mann2007-ptl?tab=repositories">
-  <img src="https://img.shields.io/badge/STARS-Earning-f59e0b?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/mann2007-ptl?style=for-the-badge&color=f59e0b&labelColor=111827" />
 </a>
 
 </div>
@@ -45,113 +43,212 @@
 
 <div align="center">
 
-<a href="#-about-me">
-  <img src="https://img.shields.io/badge/About-4b1d2a?style=for-the-badge" />
-</a>
-<a href="#-tech-stack">
-  <img src="https://img.shields.io/badge/Skills-5b2433?style=for-the-badge" />
-</a>
-<a href="#-featured-projects">
-  <img src="https://img.shields.io/badge/Projects-6b2b3d?style=for-the-badge" />
-</a>
-<a href="#-leetcode-zone">
-  <img src="https://img.shields.io/badge/LeetCode-7c3347?style=for-the-badge" />
-</a>
-<a href="#-github-analytics">
-  <img src="https://img.shields.io/badge/Stats-8b3a50?style=for-the-badge" />
-</a>
+### ✨ A developer who loves building polished interfaces, solving real problems, and improving every day.
 
 </div>
 
 ---
 
-## ✨ A developer who loves building polished interfaces, solving real problems, and improving every day.
+<div align="center">
 
-<br>
+[![About](https://img.shields.io/badge/─────About─────-0f172a?style=for-the-badge)](#-about-me)
+[![Skills](https://img.shields.io/badge/─────Skills─────-111827?style=for-the-badge)](#-tech-stack)
+[![Projects](https://img.shields.io/badge/────Projects────-1f2937?style=for-the-badge)](#-featured-projects)
+[![LeetCode](https://img.shields.io/badge/───LeetCode───-374151?style=for-the-badge)](#-leetcode-zone)
+[![Stats](https://img.shields.io/badge/─────Stats──────-4b5563?style=for-the-badge)](#-github-analytics)
+
+</div>
+
+---
 
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td width="48%" valign="top">
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260" alt="coding gif" />
 
-
+```ts
 const mann = {
-  name: "Mann Patel",
-  role: "Full Stack Developer",
-  location: "Gujarat, India 🇮🇳",
-  education: "Computer Engineering",
-  focus: ["MERN", "DSA", "Projects"],
-  mindset: "Consistency > shortcuts",
+  name:              "Mann Patel",
+  role:              "Full Stack Developer",
+  location:          "Gujarat, India 🇮🇳",
+  education:         "Computer Engineering",
+  focus:             ["MERN Stack", "DSA", "Real-world Projects"],
+  currentlyLearning: ["TypeScript", "Next.js", "Docker"],
+  mindset:           "Consistency > shortcuts",
+  availableFor:      ["Collaborations", "Internships", "Open Source"]
 };
-</td> <td width="52%" valign="top">
-🎓 Computer Engineering student from Gujarat, India
-⚛️ Building full-stack apps with the MERN stack
-🧠 Practicing DSA regularly on LeetCode
-🚀 Interested in products that look great and work fast
-🤝 Open to collaborations, internships, and meaningful dev work
-</td> </tr> </table>
-⚡ Tech Stack
+```
+
+- 🎓 Computer Engineering student from Gujarat, India
+- ⚛️ Building full-stack applications with the MERN stack
+- 🧠 Practicing DSA regularly on LeetCode
+- 🚀 Interested in products that look great and work fast
+- 🤝 Open to collaborations, internships, and meaningful dev work
+
+<br clear="right"/>
+
+---
+
+## ⚡ Tech Stack
+
 <div align="center">
-💻 Languages
-<img src="https://skillicons.dev/icons?i=js,py,c&theme=dark" />
-🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
-🛠 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
-🔧 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" /> </div>
-🚀 Featured Projects
-<div align="center">
-Project	Description	Stack	Link
-🔍 GitHub Profile Analyzer	Analyze GitHub profiles, repositories, languages, and activity in a clean interface	React GitHub API	View Repo
 
-🛍️ LACOSTE Clone	A stylish recreation of the LACOSTE storefront with attention to layout and visuals	HTML CSS	View Repo
+**💻 Languages**
 
-🎬 JIO HOTSTAR Clone	Frontend clone inspired by a popular OTT platform with structured UI sections	HTML CSS	View Repo
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-🏃 SALOMON Clone	Sports brand e-commerce UI clone focused on polished design and responsiveness	HTML CSS	View Repo
+**🎨 Frontend**
 
-🔊 ULTIMATE EARS Clone	Bold product-focused landing page clone with strong visual presentation	HTML CSS	View Repo
-</div> <div align="center">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-🔥 More full-stack projects are coming soon.
+**🛠 Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**🔧 Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
-🧩 LeetCode Zone
-<div align="center"> <a href="https://leetcode.com/u/Mann2006/"> <img src="https://leetcard.jacoblin.cool/Mann2006?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" /> </a>
 
-<br><br>
+---
 
-<a href="https://leetcode.com/u/Mann2006/"> <img src="https://img.shields.io/badge/LeetCode-Mann2006-f59e0b?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> </div>
-Problem Solving Focus:
-  - Arrays & Strings
-  - Linked Lists
-  - Trees
-  - Recursion
-  - Dynamic Programming
-  - Daily consistency
-📊 GitHub Analytics
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mann2007-ptl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=030712&title_color=f8fafc&icon_color=f59e0b&text_color=cbd5e1" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mann2007-ptl&hide_border=true&background=030712&stroke=f59e0b&ring=f97316&fire=ef4444&currStreakLabel=f8fafc&sideLabels=cbd5e1&dates=94a3b8&sideNums=f8fafc" />
+## 🚀 Featured Projects
 
-<br><br>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mann2007-ptl&layout=compact&hide_border=true&bg_color=030712&title_color=f8fafc&text_color=cbd5e1&langs_count=8" /> </div>
-📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mann2007-ptl&bg_color=030712&color=f8fafc&line=f59e0b&point=ef4444&area=true&hide_border=true" width="100%" /> </div>
-🐍 Contribution Snake
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mann2007-ptl/mann2007-ptl/output/github-snake-dark.svg" /> <img alt="github contribution snake" src="https://raw.githubusercontent.com/mann2007-ptl/mann2007-ptl/output/github-snake-dark.svg" width="100%" /> </picture> </div>
-🌐 Connect With Me
-<div align="center"> <a href="https://mann-portfolio-six.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/mann-patel-839b33399"> <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/mann2007-ptl"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://leetcode.com/u/Mann2006/"> <img src="https://img.shields.io/badge/LeetCode-f59e0b?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> <a href="https://www.youtube.com/@patelmann7197"> <img src="https://img.shields.io/badge/YouTube-ef4444?style=for-the-badge&logo=youtube&logoColor=white" /> </a> </div>
-💬 Quote I Live By
 <div align="center">
 
-"The expert in anything was once a beginner who refused to quit."
+| # | Project | Description | Stack | Link |
+|---|---------|-------------|-------|------|
+| 🔍 | **GitHub Profile Analyzer** | Analyze GitHub profiles, repositories, languages, and activity in a clean interface | `React` `GitHub API` | [View Repo](https://github.com/mann2007-ptl) |
+| 🛍️ | **LACOSTE Clone** | A stylish recreation of the LACOSTE storefront with attention to layout and visuals | `HTML` `CSS` | [View Repo](https://github.com/mann2007-ptl) |
+| 🎬 | **JIO HOTSTAR Clone** | Frontend clone inspired by a popular OTT platform with structured UI sections | `HTML` `CSS` | [View Repo](https://github.com/mann2007-ptl) |
+| 🏃 | **SALOMON Clone** | Sports brand e-commerce UI clone focused on polished design and responsiveness | `HTML` `CSS` | [View Repo](https://github.com/mann2007-ptl) |
+| 🔊 | **ULTIMATE EARS Clone** | Bold product-focused landing page clone with strong visual presentation | `HTML` `CSS` | [View Repo](https://github.com/mann2007-ptl) |
 
 </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:2d0b1f,50:7c2d12,100:f59e0b&animation=fadeIn" width="100%" />
-⭐ Thanks for visiting my profile
 
-If you like my work, star a repo and connect with me 🚀
+<div align="center">
 
-</div> ```
+🔥 **More full-stack projects are on the way. This is just the beginning.**
+
+</div>
+
+---
+
+## 🧩 LeetCode Zone
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Mann2006/">
+  <img src="https://leetcard.jacoblin.cool/Mann2006?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/Mann2006/">
+  <img src="https://img.shields.io/badge/LeetCode-Mann2006-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+</div>
+
+**Problem Solving Focus:**
+
+- 📌 Arrays & Strings
+- 📌 Recursion
+- 📌 Linked Lists
+- 📌 Trees
+- 📌 Dynamic Programming
+- 📌 Consistency and daily improvement
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mann2007-ptl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b1020&title_color=c4b5fd&icon_color=8b5cf6&text_color=e5e7eb" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mann2007-ptl&hide_border=true&background=0b1020&stroke=8b5cf6&ring=c4b5fd&fire=f59e0b&currStreakLabel=c4b5fd&sideLabels=e5e7eb&dates=e5e7eb&sideNums=ffffff" />
+
+<br/><br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mann2007-ptl&layout=compact&hide_border=true&bg_color=0b1020&title_color=c4b5fd&text_color=e5e7eb&langs_count=8" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mann2007-ptl&bg_color=0b1020&color=c4b5fd&line=8b5cf6&point=f59e0b&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mann2007-ptl/mann2007-ptl/output/github-snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/mann2007-ptl/mann2007-ptl/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://mann-portfolio-six.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mann-patel-839b33399">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/mann2007-ptl">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/Mann2006/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@patelmann7197">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 💬 Quote I Live By
+
+<div align="center">
+
+> *"The expert in anything was once a beginner who refused to quit."*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0b1020,40:312e81,75:5b21b6,100:7c3aed&animation=fadeIn" width="100%" />
+
+⭐ **Thanks for visiting my profile**
+
+*If you like my work, star a repo and connect with me.* 🚀
+
+</div>
