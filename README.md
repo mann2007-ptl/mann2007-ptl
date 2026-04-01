@@ -75,7 +75,7 @@
 <tr>
 <td width="48%" valign="top">
 
-```ts
+
 const mann = {
   name: "Mann Patel",
   role: "Full Stack Developer",
