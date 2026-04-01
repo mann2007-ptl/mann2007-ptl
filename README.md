@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=800&color=C4B5FD&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=780&height=30&lines=Full-Stack+Developer+%26+UI%2FUX+Designer;Building+modern+web+apps+with+clean+UI+and+strong+logic;Focused+on+MERN+Stack%2C+DSA%2C+and+real-world+projects;Open+to+internships%2C+collaborations%2C+and+open-source" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=800&color=C4B5FD&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=30&lines=Full-Stack+Developer+%26+UI%2FUX+Designer;Building+modern+web+apps+with+clean+UI+and+strong+logic;Focused+on+MERN+Stack%2C+DSA%2C+and+real-world+projects;Showcasing+projects%2C+creative+designs%2C+and+professional+growth" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -38,20 +38,17 @@
 <a href="#about-me">
   <img src="https://img.shields.io/badge/About-0f172a?style=for-the-badge&logo=readme&logoColor=white" />
 </a>&nbsp;
-<a href="#current-focus">
-  <img src="https://img.shields.io/badge/Focus-111827?style=for-the-badge&logo=target&logoColor=white" />
-</a>&nbsp;
 <a href="#tech-stack">
-  <img src="https://img.shields.io/badge/Tech%20Stack-1a1f35?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tech%20Stack-111827?style=for-the-badge&logo=stackoverflow&logoColor=white" />
 </a>&nbsp;
 <a href="#featured-projects">
-  <img src="https://img.shields.io/badge/Projects-252945?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-1a1f35?style=for-the-badge&logo=github&logoColor=white" />
 </a>&nbsp;
 <a href="#github-stats">
-  <img src="https://img.shields.io/badge/Stats-312e81?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Stats-252945?style=for-the-badge&logo=githubactions&logoColor=white" />
 </a>&nbsp;
 <a href="#connect-with-me">
-  <img src="https://img.shields.io/badge/Contact-4c1d95?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contact-312e81?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -60,40 +57,42 @@
 
 <div align="center">
 
-### Full-Stack Developer & UI/UX Designer :contentReference[oaicite:1]{index=1}
+### Mann Patel - Full-Stack Developer & UI/UX Designer
+
+Building modern web projects with clean UI, practical functionality, and continuous learning.
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
 <table width="100%">
 <tr>
-<td width="62%" valign="top">
+<td width="64%" valign="top">
 
 I am a Computer Engineering student from Gujarat, India, passionate about building modern, user-friendly, and practical web applications.
 
-I enjoy creating projects that combine clean interface design with strong functionality. My main focus is full-stack development with the MERN stack, while also improving problem-solving through regular DSA practice.
+My main focus is full-stack development using the MERN stack, where I enjoy creating clean interfaces, structured frontend experiences, and functional backend systems.
 
-I like turning ideas into real products, exploring better UI/UX, and continuously growing through projects, consistency, and hands-on learning.
+I also spend time improving my problem-solving skills through DSA practice and hands-on development. I like turning ideas into real projects that not only work well but also look polished and presentable.
 
 </td>
-<td width="38%" align="center" valign="top">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="coding gif" />
+<td width="36%" align="center" valign="middle">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="95%" alt="coding gif" />
 </td>
 </tr>
 </table>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 What I Do
 
-- Building full-stack web applications with clean and responsive UI
-- Improving backend logic, APIs, authentication, and database integration
-- Practicing DSA regularly to strengthen problem-solving skills
-- Learning better project structure, performance, and real-world development patterns
-- Looking for opportunities in internships, collaborations, and open-source work
+- Build responsive and modern frontend interfaces
+- Create full-stack projects using React, Node.js, Express.js, and MongoDB
+- Improve problem-solving through regular DSA practice
+- Explore better UI/UX patterns and project presentation
+- Learn by building real-world projects consistently
 
 ---
 
@@ -133,45 +132,58 @@ I like turning ideas into real products, exploring better UI/UX, and continuousl
 
 ---
 
-## 🌟 Highlights
-
-- Focused on building projects that look polished and feel practical
-- Interested in both frontend experience and backend functionality
-- Strong interest in MERN stack, UI/UX design, and scalable web projects
-- Consistent learner with a problem-solving mindset
-- Always trying to improve project quality, structure, and presentation
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<th>Project</th>
-<th>What it does</th>
-<th>Stack</th>
+<th align="left">Project</th>
+<th align="left">Description</th>
+<th align="left">Stack</th>
+<th align="center">Repo</th>
 </tr>
+
 <tr>
 <td><b>GitHub Profile Analyzer</b></td>
-<td>Analyzes GitHub profiles, repositories, and coding activity in a clean interface.</td>
+<td>Analyze GitHub profiles, repositories, and coding activity in a clean and practical interface.</td>
 <td><code>React</code> <code>GitHub API</code></td>
+<td align="center"><a href="https://github.com/mann2007-ptl/Github-profileAnalyzer">View Repo</a></td>
 </tr>
+
 <tr>
-<td><b>Portfolio Website</b></td>
-<td>Personal portfolio showcasing projects, skills, visual design, and developer identity.</td>
-<td><code>React</code> <code>Tailwind</code></td>
+<td><b>YETI Clone</b></td>
+<td>Frontend clone focused on clean layout structure, section design, and strong visual presentation.</td>
+<td><code>HTML</code> <code>CSS</code></td>
+<td align="center"><a href="https://github.com/mann2007-ptl">View Repo</a></td>
 </tr>
+
+<tr>
+<td><b>SALOMON Clone</b></td>
+<td>Modern brand-style website clone with polished UI sections and responsive visual design.</td>
+<td><code>HTML</code> <code>CSS</code></td>
+<td align="center"><a href="https://github.com/mann2007-ptl">View Repo</a></td>
+</tr>
+
 <tr>
 <td><b>LACOSTE Clone</b></td>
-<td>Frontend clone focused on layout accuracy, product sections, and visual presentation.</td>
+<td>E-commerce inspired clone focused on layout accuracy, product sections, and premium styling.</td>
 <td><code>HTML</code> <code>CSS</code></td>
+<td align="center"><a href="https://github.com/mann2007-ptl">View Repo</a></td>
 </tr>
+
 <tr>
 <td><b>JIO HOTSTAR Clone</b></td>
-<td>Streaming-platform-inspired interface with clean sections and organized content blocks.</td>
+<td>Streaming-platform-inspired interface with organized content blocks and clean UI structure.</td>
 <td><code>HTML</code> <code>CSS</code></td>
+<td align="center"><a href="https://github.com/mann2007-ptl">View Repo</a></td>
+</tr>
+
+<tr>
+<td><b>STANLEY Clone</b></td>
+<td>Product-focused frontend clone with bold layout, branding feel, and visually rich sections.</td>
+<td><code>HTML</code> <code>CSS</code></td>
+<td align="center"><a href="https://github.com/mann2007-ptl">View Repo</a></td>
 </tr>
 </table>
 
@@ -179,9 +191,9 @@ I like turning ideas into real products, exploring better UI/UX, and continuousl
 
 ---
 
-## 📈 Learning Journey
+## 🌱 Growth Mindset
 
-I believe in learning by building. Every project helps me improve my UI skills, development logic, debugging ability, and confidence in creating real applications. My goal is not just to write code, but to build projects that are clean, useful, and presentable.
+I enjoy learning by building. Each project helps me improve my frontend skills, backend understanding, debugging process, and overall development confidence. My goal is to create projects that are not only functional, but also clean, attractive, and meaningful.
 
 ---
 
