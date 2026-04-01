@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=800&color=C4B5FD&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=30&lines=Full-Stack+Developer+%26+UI%2FUX+Designer;Building+modern+web+apps+with+clean+UI+and+strong+logic;Focused+on+MERN+Stack%2C+DSA%2C+and+real-world+projects;Showcasing+projects%2C+creative+designs%2C+and+professional+growth" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=800&color=C4B5FD&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=30&lines=Full-Stack+Developer+%26+UI%2FUX+Designer;Building+modern+web+apps+with+clean+UI+and+strong+logic;Focused+on+MERN+Stack%2C+DSA%2C+and+real-world+projects;Open+to+internships%2C+collaborations%2C+and+open-source" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -44,11 +44,14 @@
 <a href="#featured-projects">
   <img src="https://img.shields.io/badge/Projects-1a1f35?style=for-the-badge&logo=github&logoColor=white" />
 </a>&nbsp;
+<a href="#leetcode-zone">
+  <img src="https://img.shields.io/badge/LeetCode-252945?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>&nbsp;
 <a href="#github-stats">
-  <img src="https://img.shields.io/badge/GitHub%20Stats-252945?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Stats-312e81?style=for-the-badge&logo=githubactions&logoColor=white" />
 </a>&nbsp;
 <a href="#connect-with-me">
-  <img src="https://img.shields.io/badge/Contact-312e81?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contact-4c1d95?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -57,7 +60,7 @@
 
 <div align="center">
 
-### Mann Patel - Full-Stack Developer & UI/UX Designer
+### Mann Patel — Full-Stack Developer & UI/UX Designer
 
 Building modern web projects with clean UI, practical functionality, and continuous learning.
 
@@ -65,7 +68,7 @@ Building modern web projects with clean UI, practical functionality, and continu
 
 ---
 
-## 💫 About Me
+## 🌌 About Me
 
 <table width="100%">
 <tr>
@@ -155,39 +158,70 @@ I also spend time improving my problem-solving skills through DSA practice and h
 <td><b>YETI Clone</b></td>
 <td>Frontend clone focused on clean layout structure, section design, and strong visual presentation.</td>
 <td><code>HTML</code> <code>CSS</code></td>
-<td align="center"><a href="https://github.com/mann2007-ptl">View Repo</a></td>
+<td align="center"><a href="https://github.com/mann2007-ptl/yeti-diwali-assgn">View Repo</a></td>
 </tr>
 
 <tr>
 <td><b>SALOMON Clone</b></td>
 <td>Modern brand-style website clone with polished UI sections and responsive visual design.</td>
 <td><code>HTML</code> <code>CSS</code></td>
-<td align="center"><a href="https://github.com/mann2007-ptl">View Repo</a></td>
+<td align="center"><a href="https://github.com/mann2007-ptl/salomon-diwali-asgn">View Repo</a></td>
 </tr>
 
 <tr>
 <td><b>LACOSTE Clone</b></td>
 <td>E-commerce inspired clone focused on layout accuracy, product sections, and premium styling.</td>
 <td><code>HTML</code> <code>CSS</code></td>
-<td align="center"><a href="https://github.com/mann2007-ptl">View Repo</a></td>
+<td align="center"><a href="https://github.com/mann2007-ptl/diwali_assgn1">View Repo</a></td>
 </tr>
 
 <tr>
 <td><b>JIO HOTSTAR Clone</b></td>
 <td>Streaming-platform-inspired interface with organized content blocks and clean UI structure.</td>
 <td><code>HTML</code> <code>CSS</code></td>
-<td align="center"><a href="https://github.com/mann2007-ptl">View Repo</a></td>
+<td align="center"><a href="https://github.com/mann2007-ptl/diwali_assgn">View Repo</a></td>
 </tr>
 
 <tr>
 <td><b>STANLEY Clone</b></td>
 <td>Product-focused frontend clone with bold layout, branding feel, and visually rich sections.</td>
 <td><code>HTML</code> <code>CSS</code></td>
-<td align="center"><a href="https://github.com/mann2007-ptl">View Repo</a></td>
+<td align="center"><a href="https://github.com/mann2007-ptl/stanley-diwal-assgn-">View Repo</a></td>
+</tr>
+
+<tr>
+<td><b>ULTIMATE EARS Clone</b></td>
+<td>Bold product landing page clone with strong branding, clean layout, and visual balance.</td>
+<td><code>HTML</code> <code>CSS</code></td>
+<td align="center"><a href="https://github.com/mann2007-ptl/ultimate-ears-diwali-assgn">View Repo</a></td>
 </tr>
 </table>
 
 </div>
+
+---
+
+## 🧠 LeetCode Zone
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Mann2006/">
+  <img src="https://leetcard.jacoblin.cool/Mann2006?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12" alt="LeetCode Stats" width="500" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/Mann2006/">
+  <img src="https://img.shields.io/badge/LeetCode-Mann2006-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a1a" />
+</a>
+
+</div>
+
+<br/>
+
+- Practicing DSA regularly to improve logic and consistency
+- Focused on arrays, strings, recursion, linked lists, and problem-solving patterns
+- Using LeetCode as a way to strengthen coding interview fundamentals
 
 ---
 
