@@ -188,26 +188,26 @@ I love crafting modern, responsive, and user-friendly web applications that don'
 
 ### 🔥 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mann2007-ptl&bg_color=0b1020&color=c4b5fd&line=7c3aed&point=f59e0b&area=true&area_color=5b21b6&hide_border=true&radius=8" width="96%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mann2007-ptl&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=f59e0b&area=true&area_color=5b21b6&hide_border=true" width="96%" alt="Activity Graph" />
 
 <br/><br/>
 
 ### 📈 Core Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mann2007-ptl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b1020&title_color=c4b5fd&icon_color=8b5cf6&text_color=e5e7eb&ring_color=7c3aed&border_radius=12" alt="GitHub Stats" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=mann2007-ptl&hide_border=true&background=0b1020&stroke=8b5cf6&ring=c4b5fd&fire=f59e0b&currStreakLabel=c4b5fd&sideLabels=e5e7eb&dates=e5e7eb&sideNums=ffffff&currStreakNum=ffffff&border_radius=12" alt="GitHub Streak" />
+<img width="49%" src="https://github-stats-alpha.vercel.app/api?username=mann2007-ptl&cc=0d1117&tc=c4b5fd&ic=8b5cf6&bc=7c3aed" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=mann2007-ptl&theme=transparent&hide_border=true&ring=c4b5fd&fire=f59e0b&currStreakLabel=c4b5fd&sideLabels=94a3b8&dates=94a3b8&sideNums=ffffff&currStreakNum=ffffff&background=0d1117&stroke=7c3aed" alt="GitHub Streak" />
 
 <br/><br/>
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=mann2007-ptl&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6" width="96%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=mann2007-ptl&theme=onestar&no-frame=true&no-bg=false&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 
 <br/><br/>
 
 ### 🗣️ Top Languages
 
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mann2007-ptl&layout=donut&hide_border=true&bg_color=0b1020&title_color=c4b5fd&text_color=e5e7eb&langs_count=8&border_radius=12" alt="Top Languages" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mann2007-ptl&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e5e7eb&langs_count=6" alt="Top Languages" />
 
 </div>
 
