@@ -51,7 +51,7 @@ I love crafting modern, responsive, and user-friendly web applications that don'
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="coding gif" />
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="100%" alt="coding gif" />
 
 </td>
 </tr>
