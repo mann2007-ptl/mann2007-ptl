@@ -197,17 +197,6 @@ I love crafting modern, responsive, and user-friendly web applications that don'
 <img width="49%" src="https://github-stats-alpha.vercel.app/api?username=mann2007-ptl&cc=0d1117&tc=c4b5fd&ic=8b5cf6&bc=7c3aed" alt="GitHub Stats" />
 <img width="49%" src="https://streak-stats.demolab.com?user=mann2007-ptl&theme=transparent&hide_border=true&ring=c4b5fd&fire=f59e0b&currStreakLabel=c4b5fd&sideLabels=94a3b8&dates=94a3b8&sideNums=ffffff&currStreakNum=ffffff&background=0d1117&stroke=7c3aed" alt="GitHub Streak" />
 
-<br/><br/>
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=mann2007-ptl&theme=onestar&no-frame=true&no-bg=false&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-
-<br/><br/>
-
-### 🗣️ Top Languages
-
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mann2007-ptl&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e5e7eb&langs_count=6" alt="Top Languages" />
 
 </div>
 
