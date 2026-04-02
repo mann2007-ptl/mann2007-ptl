@@ -19,7 +19,14 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=mann2007-ptl&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://komarev.com/ghpvc/?username=mann2007-ptl)
 [![Followers](https://img.shields.io/github/followers/mann2007-ptl?style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=FOLLOWERS)](https://github.com/mann2007-ptl?tab=followers)
 
+<br/>
+
+<!-- ═══════════════ NAVBAR ═══════════════ -->
+[![About](https://img.shields.io/badge/01%20·%20About-0f172a?style=for-the-badge&logo=readme&logoColor=white)](#-about-me)&nbsp;[![Tech Stack](https://img.shields.io/badge/02%20·%20Tech%20Stack-111827?style=for-the-badge&logo=stackshare&logoColor=white)](#-tech-stack)&nbsp;[![Projects](https://img.shields.io/badge/03%20·%20Projects-1a1f35?style=for-the-badge&logo=github&logoColor=white)](#-featured-projects)&nbsp;[![LeetCode](https://img.shields.io/badge/04%20·%20LeetCode-252945?style=for-the-badge&logo=leetcode&logoColor=FFA116)](#-leetcode-zone)&nbsp;[![Stats](https://img.shields.io/badge/05%20·%20Stats-312e81?style=for-the-badge&logo=githubactions&logoColor=white)](#-github-stats)&nbsp;[![Contact](https://img.shields.io/badge/06%20·%20Contact-4c1d95?style=for-the-badge&logo=gmail&logoColor=white)](#-connect-with-me)
+
 </div>
+
+<br/>
 
 ---
 
@@ -33,7 +40,7 @@ Hey there! I'm **Mann Patel** 👋 — a passionate **Computer Engineering stude
 
 I love crafting modern, responsive, and user-friendly web applications that don't just work — they look stunning too ✨
 
-- 🎓 Pursuing **Computer Engineering** at a top university in Gujarat
+- 🎓 Pursuing **Computer Engineering** in Gujarat
 - 🔭 Currently building full-stack apps with the **MERN Stack**
 - 🌱 Constantly sharpening my **DSA** skills on LeetCode
 - 🎨 I care deeply about **UI/UX** — clean design is non-negotiable
@@ -44,7 +51,7 @@ I love crafting modern, responsive, and user-friendly web applications that don'
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" style="border-radius:12px" alt="coding gif" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="coding gif" />
 
 </td>
 </tr>
@@ -99,14 +106,14 @@ I love crafting modern, responsive, and user-friendly web applications that don'
 
 <div align="center">
 
-| 🏷️ Project | 📝 Description | 🔨 Stack | 🔗 Repo |
-|-----------|---------------|---------|--------|
+| 🏷️ Project | 📝 Description | 🔨 Stack | 🔗 |
+|-----------|---------------|---------|---|
 | 🔍 **GitHub Profile Analyzer** | Analyze GitHub profiles, repos & coding activity in a clean interface | `React` `GitHub API` | [View →](https://github.com/mann2007-ptl/Github-profileAnalyzer) |
 | 🧊 **YETI Clone** | Frontend clone with clean layout structure and strong visual presentation | `HTML` `CSS` | [View →](https://github.com/mann2007-ptl/yeti-diwali-assgn) |
 | 🏔️ **SALOMON Clone** | Modern brand-style website with polished UI and responsive design | `HTML` `CSS` | [View →](https://github.com/mann2007-ptl/salomon-diwali-asgn) |
 | 🐊 **LACOSTE Clone** | E-commerce inspired clone with premium layout and product sections | `HTML` `CSS` | [View →](https://github.com/mann2007-ptl/diwali_assgn1) |
 | 📺 **JIO HOTSTAR Clone** | Streaming-platform interface with organized content blocks | `HTML` `CSS` | [View →](https://github.com/mann2007-ptl/diwali_assgn) |
-| 🥤 **STANLEY Clone** | Product-focused frontend clone with bold branding and rich sections | `HTML` `CSS` | [View →](https://github.com/mann2007-ptl/stanley-diwal-assgn-) |
+| 🥤 **STANLEY Clone** | Product-focused frontend with bold branding and rich sections | `HTML` `CSS` | [View →](https://github.com/mann2007-ptl/stanley-diwal-assgn-) |
 | 🎵 **ULTIMATE EARS Clone** | Bold product landing page with strong branding and visual balance | `HTML` `CSS` | [View →](https://github.com/mann2007-ptl/ultimate-ears-diwali-assgn) |
 
 </div>
@@ -121,14 +128,16 @@ I love crafting modern, responsive, and user-friendly web applications that don'
 
 <br/>
 
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Mann2006-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a1a)](https://leetcode.com/u/Mann2006/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Mann2006-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a1a)](https://leetcode.com/u/Mann2006/)
 
 </div>
 
 <br/>
 
-> 🎯 Practicing DSA daily — focused on **arrays, strings, recursion, linked lists**, and core problem-solving patterns  
-> 💪 Using LeetCode to build strong fundamentals for coding interviews  
+> 🎯 Practicing DSA daily — focused on **arrays, strings, recursion, linked lists**, and core problem-solving patterns
+>
+> 💪 Using LeetCode to build strong fundamentals for coding interviews
+>
 > 📈 Consistency over intensity — showing up every day
 
 ---
@@ -137,12 +146,28 @@ I love crafting modern, responsive, and user-friendly web applications that don'
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mann2007-ptl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b1020&title_color=c4b5fd&icon_color=8b5cf6&text_color=e5e7eb&ring_color=7c3aed" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mann2007-ptl&hide_border=true&background=0b1020&stroke=8b5cf6&ring=c4b5fd&fire=f59e0b&currStreakLabel=c4b5fd&sideLabels=e5e7eb&dates=e5e7eb&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub Streak"/>
+### 🔥 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mann2007-ptl&bg_color=0b1020&color=c4b5fd&line=7c3aed&point=f59e0b&area=true&area_color=5b21b6&hide_border=true&radius=8" width="96%" alt="Activity Graph"/>
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mann2007-ptl&layout=compact&hide_border=true&bg_color=0b1020&title_color=c4b5fd&text_color=e5e7eb&langs_count=8&card_width=320" alt="Top Languages"/>
+### 📈 Core Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mann2007-ptl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b1020&title_color=c4b5fd&icon_color=8b5cf6&text_color=e5e7eb&ring_color=7c3aed&border_radius=12" alt="GitHub Stats"/>
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=mann2007-ptl&hide_border=true&background=0b1020&stroke=8b5cf6&ring=c4b5fd&fire=f59e0b&currStreakLabel=c4b5fd&sideLabels=e5e7eb&dates=e5e7eb&sideNums=ffffff&currStreakNum=ffffff&border_radius=12" alt="GitHub Streak"/>
+
+<br/><br/>
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=mann2007-ptl&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6" width="96%" alt="GitHub Trophies"/>
+
+<br/><br/>
+
+### 🗣️ Top Languages
+
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mann2007-ptl&layout=donut&hide_border=true&bg_color=0b1020&title_color=c4b5fd&text_color=e5e7eb&langs_count=8&border_radius=12" alt="Top Languages"/>
 
 </div>
 
@@ -165,12 +190,12 @@ I love crafting modern, responsive, and user-friendly web applications that don'
 ## 🌱 Growth Mindset
 
 ```
-Every project = new lesson
-Every bug = deeper understanding
-Every commit = one step forward
+Every project  →  new lesson learned
+Every bug      →  deeper understanding  
+Every commit   →  one step forward
 
 "I don't just write code. I build experiences."
-                                        — Mann Patel
+                                    — Mann Patel
 ```
 
 ---
