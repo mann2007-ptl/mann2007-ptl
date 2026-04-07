@@ -42,9 +42,6 @@
 <a href="#-tech-stack">
   <img src="https://img.shields.io/badge/02 · Tech Stack-111827?style=for-the-badge&logo=stackoverflow&logoColor=white" />
 </a>&nbsp;
-<a href="#-featured-projects">
-  <img src="https://img.shields.io/badge/03 · Projects-1a1f35?style=for-the-badge&logo=github&logoColor=white" />
-</a>&nbsp;
 <a href="#-leetcode-zone">
   <img src="https://img.shields.io/badge/04 · LeetCode-252945?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>&nbsp;
