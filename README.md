@@ -1,9 +1,9 @@
-<!-- HEADER -->
+<!-- ========================= HEADER ========================= -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Mann%20Patel&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20MERN%20Stack&descAlignY=62&descAlign=50" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&multiline=true&width=750&height=100&lines=%F0%9F%94%A5+React+%7C+Node.js+%7C+MongoDB+%7C+Tailwind+CSS;%F0%9F%9A%80+Building+modern+apps+with+clean+UI+%26+strong+logic;%E2%9A%A1+LeetCode+Grinder+%7C+Open+to+Internships+%26+Collabs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&multiline=true&width=780&height=100&lines=%F0%9F%94%A5+React+%7C+Node.js+%7C+MongoDB+%7C+Tailwind+CSS;%F0%9F%9A%80+Building+modern+apps+with+clean+UI+%26+strong+logic;%E2%9A%A1+Open+to+Internships+%7C+Collaborations+%7C+Real-world+Projects" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -11,44 +11,277 @@
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/mann2007-ptl?style=for-the-badge&color=00D9FF&labelColor=0D1117&label=🤝+FOLLOWERS)](https://github.com/mann2007-ptl?tab=followers)
 
+<br/><br/>
+
+<!-- ========================= NAVBAR ========================= -->
+
+<a href="#about">
+  <img src="https://img.shields.io/badge/About-0D1117?style=for-the-badge&logo=readme&logoColor=white" />
+</a>
+&nbsp;
+<a href="#journey">
+  <img src="https://img.shields.io/badge/Journey-111827?style=for-the-badge&logo=bookstack&logoColor=white" />
+</a>
+&nbsp;
+<a href="#skills">
+  <img src="https://img.shields.io/badge/Skills-1F2937?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</a>
+&nbsp;
+<a href="#projects">
+  <img src="https://img.shields.io/badge/Projects-312E81?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="#github-stats">
+  <img src="https://img.shields.io/badge/Stats-252945?style=for-the-badge&logo=githubactions&logoColor=white" />
+</a>
+&nbsp;
+<a href="#leetcode">
+  <img src="https://img.shields.io/badge/LeetCode-1E1B4B?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+&nbsp;
+<a href="#connect">
+  <img src="https://img.shields.io/badge/Contact-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
-<!-- ABOUT -->
+<a id="about"></a>
+
+<!-- ========================= ABOUT ========================= -->
+
 <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 💀 `> whoami`
 
+```bash
+Name: Mann Patel
+Role: Full Stack Developer | UI/UX Designer | MERN Stack Developer
+Location: Gujarat, India 🇮🇳
+Status: Open to Internships & Collaborations
 ```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   $ whoami                                          │
-│   > Mann Patel                                      │
-│                                                     │
-│   $ cat role.txt                                    │
-│   > Full Stack Dev · UI/UX Designer · MERN Stack   │
-│                                                     │
-│   $ ping location                                   │
-│   > Gujarat, India 🇮🇳 [64ms]                       │
-│                                                     │
-│   $ status --check                                  │
-│   > 🟢 ONLINE · Open to Internships & Collabs       │
-│                                                     │
-│   $ ls ./currently/                                 │
-│   > Building MERN apps                              │
-│   > Grinding DSA on LeetCode                        │
-│   > Crafting clean UI/UX experiences                │
-│   > Contributing to open source                     │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+
+I’m a passionate **Computer Engineering student** who enjoys building modern, responsive, and user-friendly web applications.
+
+My journey started with **HTML, CSS, JavaScript, Git, GitHub, and Figma**, where I built strong frontend fundamentals and improved my design sense through clones and UI-based projects.
+
+As I kept learning, I moved into **full stack development with the MERN stack** and started building applications with **React, Node.js, Express.js, and MongoDB**. I enjoy turning ideas into practical projects, creating polished interfaces, and continuously improving through hands-on development.
+
+- 🔭 Building projects with **React, Node.js, Express.js, MongoDB**
+- 🎨 Interested in **UI/UX design** and polished user interfaces
+- 🌱 Improving every day through **real-world project building**
+- 🚀 Focused on writing **clean, structured, and useful code**
+- 🤝 Open to **internships, collaborations, and exciting opportunities**
 
 <br clear="right"/>
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
+<a id="journey"></a>
+
+<!-- ========================= JOURNEY ========================= -->
+
+<div align="center">
+
+### 📘 `> cat learning-journey.md`
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## Semester 1
+
+- Built a strong foundation in **HTML, CSS, and JavaScript**
+- Learned how to create **responsive web layouts** using Flexbox and Grid
+- Explored **DOM manipulation** and interactive frontend behavior
+- Used **Git and GitHub** for version control and project sharing
+- Learned **Figma** to understand layouts, visual hierarchy, and UI design
+- Built multiple **frontend clones and mini projects** to improve implementation skills
+
+</td>
+<td width="50%" valign="top">
+
+## Semester 2
+
+- Transitioned into **full stack development with MERN**
+- Built projects using **React** for dynamic frontend interfaces
+- Learned **Node.js and Express.js** for backend logic and API creation
+- Worked with **MongoDB and Mongoose** for database handling
+- Built **CRUD-based and API-driven projects**
+- Improved project structure, routing, backend integration, and overall development workflow
+
+</td>
+</tr>
+</table>
+
+---
+
+<a id="skills"></a>
+
+<!-- ========================= SKILLS ========================= -->
+
+<div align="center">
+
+### 🛸 `> ./skills --list`
+
+| Domain | Technologies |
+|--------|-------------|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,c,cpp,git,github,vscode,postman,figma&theme=dark&perline=8" />
+
+</div>
+
+---
+
+<!-- ========================= WHAT I WORK ON ========================= -->
+
+<div align="center">
+
+### ⚙️ `> ./focus --current`
+
+</div>
+
+```text
+Frontend Development   → Responsive UI, layouts, interactions, and modern design
+Full Stack Projects    → MERN applications with proper routing and backend integration
+API Development        → REST APIs with Node.js, Express.js, and MongoDB
+UI/UX Design           → Clean structure, better spacing, and polished user experience
+Portfolio Building     → Real-world projects that showcase practical skills
+```
+
+---
+
+<a id="projects"></a>
+
+<!-- ========================= PROJECTS ========================= -->
+
+<div align="center">
+
+### 🚀 `> ./projects --featured`
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 GitHub Profile Analyzer
+
+A React-based web application that fetches and displays GitHub user profile data using the GitHub API. It provides repository insights, profile information, and a clean interface for viewing developer activity.
+
+**Tech Stack:** React, GitHub API, CSS  
+
+**Links:**  
+- [🌐 Live Demo](https://mannpatel-githubanalyser.netlify.app/)
+- [💻 Source Code](https://github.com/mann2007-ptl/Github-profileAnalyzer)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 LACOSTE Website Clone
+
+A frontend clone inspired by the original LACOSTE website, focused on layout accuracy, styling precision, and responsive design.
+
+**Tech Stack:** HTML, CSS, Flexbox  
+
+**Links:**  
+- [🌐 Live Demo](https://mannpatel108585-lacoste-clone.netlify.app/diwali_assgn1/lacoste/)
+- [💻 Source Code](https://github.com/mann2007-ptl/diwali_assgn1)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 JioHotstar Clone
+
+A responsive streaming-platform style UI built to practice content layout, visual hierarchy, and card-based sections.
+
+**Tech Stack:** HTML, CSS, Grid  
+
+**Links:**  
+- [🌐 Live Demo](https://mannpatel108585-jiohotstar-clone.netlify.app/)
+- [💻 Source Code](https://github.com/mann2007-ptl/diwali_assgn)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 SALOMON Brand UI Clone
+
+A brand-focused frontend clone designed to improve spacing, structure, and modern layout implementation.
+
+**Tech Stack:** HTML, CSS, Grid  
+
+**Links:**  
+- [🌐 Live Demo](https://mannpatel-salomon-clone.netlify.app/)
+- [💻 Source Code](https://github.com/mann2007-ptl/salomon-diwali-asgn)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 STANLEY Brand UI Clone
+
+A responsive brand interface recreation focused on alignment, section arrangement, and polished presentation.
+
+**Tech Stack:** HTML, CSS, Flexbox  
+
+**Links:**  
+- [🌐 Live Demo](https://mannpatel-stanley.netlify.app/stanley-diwal-assgn-/stanley/)
+- [💻 Source Code](https://github.com/mann2007-ptl/stanley-diwal-assgn-)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Ultimate Ears (UE) Clone
+
+A frontend clone built to strengthen styling, layout composition, and brand-inspired UI implementation.
+
+**Tech Stack:** HTML, CSS  
+
+**Links:**  
+- [🌐 Live Demo](https://mannpatel-ultimate-ears-clone.netlify.app/)
+- [💻 Source Code](https://github.com/mann2007-ptl/ultimate-ears-diwali-assgn)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ========================= PROJECT HIGHLIGHTS ========================= -->
+
+<div align="center">
+
+### 🧩 `> cat project-highlights.log`
+
+</div>
+
+```text
+✓ Built responsive frontend clones from real brand websites
+✓ Created API-driven apps using React and external APIs
+✓ Worked on clean UI design, spacing, and structured layout
+✓ Built full stack apps using React, Node.js, Express.js, and MongoDB
+✓ Continuously improving project quality through practical development
+```
+
+---
+
+<!-- ========================= SNAKE ========================= -->
+
 <div align="center">
 
 ### 🐍 `> git log --graph --all`
@@ -63,55 +296,10 @@
 
 ---
 
-<!-- SKILLS -->
-<div align="center">
+<a id="github-stats"></a>
 
-### 🛸 `> ./skills --list`
+<!-- ========================= STATS ========================= -->
 
-| Domain | Technologies |
-|--------|-------------|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=js,c,python,html,css,react,tailwind,nodejs,express,mongodb,git,github,vscode,postman&theme=dark&perline=7" />
-
-</div>
-
----
-
-<!-- SKILL BENCHMARK -->
-<div align="center">
-
-### ⚙️ `> benchmark --skills`
-
-</div>
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  SKILL BENCHMARK REPORT          [ DEVELOPER SYSTEM v2.0 ]      ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  JavaScript   ████████████████████░░  90%   ★ Core Language     ║
-║  React        ████████████████░░░░░░  80%   ★ Component Wizard  ║
-║  HTML/CSS     █████████████████████░  95%   ★ Pixel Perfect     ║
-║  Tailwind CSS ████████████████████░░  90%   ★ Utility Master    ║
-║  Node.js      ██████████████░░░░░░░░  70%   ↑ Leveling Up       ║
-║  Express.js   ███████████████░░░░░░░  75%   ★ API Builder       ║
-║  MongoDB      ███████████████░░░░░░░  75%   ★ CRUD Expert       ║
-║  Git          ████████████████░░░░░░  80%   ★ Version Control   ║
-║  UI/UX Design █████████████████░░░░░  85%   ★ Design Thinker    ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
----
-
-<!-- GITHUB STATS -->
 <div align="center">
 
 ### 📊 `> ./github-stats --live`
@@ -137,7 +325,28 @@
 
 ---
 
-<!-- LEETCODE -->
+<!-- ========================= DEVELOPMENT STYLE ========================= -->
+
+<div align="center">
+
+### 🧠 `> cat dev-style.txt`
+
+</div>
+
+```text
+Code Style        → Clean, readable, and structured
+Approach          → Learn by building real projects
+Frontend Focus    → Modern UI, responsiveness, and polished sections
+Backend Focus     → APIs, routing, logic, and data handling
+Goal              → Build useful, scalable, and professional applications
+```
+
+---
+
+<a id="leetcode"></a>
+
+<!-- ========================= LEETCODE ========================= -->
+
 <div align="center">
 
 ### 🔢 `> leetcode --profile Mann2006`
@@ -150,41 +359,21 @@
   <img src="https://img.shields.io/badge/LeetCode-Mann2006-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a1a" />
 </a>
 
-```
-⚡ PROBLEM SOLVING PHILOSOPHY:
-   Brute Force → Optimize → Refactor → Ship
-   Easy [✓] → Medium [⚡] → Hard [🧠] → Real World [🚀]
-   Focus: Arrays · Strings · Recursion · Linked Lists
-```
-
 </div>
 
----
+<br/>
 
-<!-- HTOP -->
-<div align="center">
-
-### 🖥️ `> htop` — *Processes running in my brain rn*
-
-</div>
-
-```
-Tasks: 6 total,  4 running,  2 sleeping
-CPU [████████████████████████░░░░░░] 84.2%   MEM [████████████░░░░] 71.3%
-
-  PID  PROCESS                        STATUS    %CPU  PRIORITY
- ────  ─────────────────────────────  ────────  ────  ────────
-  001  mern_stack_mastery             RUNNING   🔥34   HIGH
-  002  dsa_leetcode_grind             RUNNING   ⚡26   HIGH
-  003  uiux_design_polish             RUNNING   🎨14   HIGH
-  004  fullstack_project_builder      RUNNING   🚀10   HIGH
-  005  advanced_react_patterns        SLEEPING  📚 0   MEDIUM
-  006  open_source_contributions      SLEEPING  🌍 0   SCHEDULED
+```text
+Problem Solving Mode:
+Learn concept → Practice logic → Improve code → Keep building
 ```
 
 ---
 
-<!-- CONNECT -->
+<!-- ========================= CONNECT ========================= -->
+
+<a id="connect"></a>
+
 <div align="center">
 
 ### 📡 `> ssh connect@mann-patel --open-ports`
@@ -193,28 +382,40 @@ CPU [████████████████████████░
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mann-patel-839b33399)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mann2007-ptl)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20Together-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Mann2006/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Mann2006/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00FFB3?style=for-the-badge&logo=vercel&logoColor=black)](https://mann-portfolio-six.vercel.app/)
 
 </div>
 
 ---
 
-<!-- FOOTER -->
+<!-- ========================= QUOTE ========================= -->
+
 <div align="center">
 
+### 🌱 `> echo $MINDSET`
+
+</div>
+
+```text
+Every project teaches something new.
+Every bug improves understanding.
+Every build is one step forward.
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   while(alive) {                                                 ║
-║       eat();  sleep();  code();  design();  repeat();            ║
-║   }                                                              ║
-║                                                                  ║
-║   Stack: JS │ React │ Node.js │ MongoDB │ Tailwind │ Git        ║
-║   Mode:  🔥 Building │ 🎨 Designing │ ⚡ Solving │ 🚀 Shipping  ║
-║                                                                  ║
-║   "I don't just write code. I build experiences." — Mann Patel  ║
-╚══════════════════════════════════════════════════════════════════╝
+
+---
+
+<!-- ========================= FOOTER ========================= -->
+
+<div align="center">
+
+```text
+while(alive) {
+    learn();
+    build();
+    improve();
+    repeat();
+}
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks+for+visiting+%F0%9F%9A%80&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
