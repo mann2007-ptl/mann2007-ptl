@@ -10,7 +10,8 @@
 
 <a href="https://komarev.com/ghpvc/?username=mann2007-ptl">
   <img src="https://komarev.com/ghpvc/?username=mann2007-ptl&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-</a>&nbsp;
+</a>
+&nbsp;
 <a href="https://github.com/mann2007-ptl?tab=followers">
   <img src="https://img.shields.io/github/followers/mann2007-ptl?style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=FOLLOWERS" />
 </a>
@@ -18,30 +19,36 @@
 <br/><br/>
 
 <!-- ═══════════════════ NAVBAR ═══════════════════ -->
-<a href="#-about-me">
-  <img src="https://img.shields.io/badge/01 · About-0f172a?style=for-the-badge&logo=readme&logoColor=white" />
-</a>&nbsp;
-<a href="#-what-i-do">
-  <img src="https://img.shields.io/badge/02 · What I Do-111827?style=for-the-badge&logo=target&logoColor=white" />
-</a>&nbsp;
-<a href="#-tech-stack">
-  <img src="https://img.shields.io/badge/03 · Tech Stack-1f2937?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-</a>&nbsp;
-<a href="#-github-stats">
-  <img src="https://img.shields.io/badge/04 · Stats-312e81?style=for-the-badge&logo=githubactions&logoColor=white" />
-</a>&nbsp;
-<a href="#-leetcode-zone">
-  <img src="https://img.shields.io/badge/05 · LeetCode-252945?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-</a>&nbsp;
-<a href="#-connect-with-me">
-  <img src="https://img.shields.io/badge/06 · Contact-4c1d95?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<a href="#about-me">
+  <img src="https://img.shields.io/badge/01%20%C2%B7%20About-0f172a?style=for-the-badge&logo=readme&logoColor=white" />
+</a>
+&nbsp;
+<a href="#what-i-do">
+  <img src="https://img.shields.io/badge/02%20%C2%B7%20What%20I%20Do-111827?style=for-the-badge&logo=target&logoColor=white" />
+</a>
+&nbsp;
+<a href="#tech-stack">
+  <img src="https://img.shields.io/badge/03%20%C2%B7%20Tech%20Stack-1f2937?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</a>
+&nbsp;
+<a href="#github-stats">
+  <img src="https://img.shields.io/badge/04%20%C2%B7%20Stats-312e81?style=for-the-badge&logo=githubactions&logoColor=white" />
+</a>
+&nbsp;
+<a href="#leetcode-zone">
+  <img src="https://img.shields.io/badge/05%20%C2%B7%20LeetCode-252945?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+&nbsp;
+<a href="#connect-with-me">
+  <img src="https://img.shields.io/badge/06%20%C2%B7%20Contact-4c1d95?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
-<br/>
-
 ---
+
+<a id="about-me"></a>
 
 ## 👨‍💻 About Me
 
@@ -49,18 +56,19 @@
 <tr>
 <td width="60%" valign="top">
 
-Hey there! I'm **Mann Patel** 👋 — a passionate **Computer Engineering student** from Gujarat, India 🇮🇳
+Hey there! I'm **Mann Patel** 👋  
+A passionate **Computer Engineering student** from Gujarat, India 🇮🇳
 
-I love crafting modern, responsive, and user-friendly web applications that don't just work — they **look stunning** too ✨
+I enjoy building modern, responsive, and user-friendly web applications that not only work smoothly but also look visually polished and professional.
 
-- 🎓 Pursuing **Computer Engineering** in Gujarat
-- 🔭 Currently building full-stack apps with the **MERN Stack**
-- 🌱 Constantly sharpening **DSA** skills on LeetCode
-- 🎨 I care deeply about **UI/UX** — clean design is non-negotiable
-- ⚡ Fun fact: I turn coffee ☕ into clean code & pixel-perfect UIs
-- 💬 Ask me about **React, Node.js, MongoDB, or UI Design**
-- 🤝 Open to **internships, collabs & open-source**
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/mann-patel-839b33399) or [Portfolio](https://mann-portfolio-six.vercel.app/)
+- 🎓 Pursuing **Computer Engineering**
+- 🔭 Building full-stack applications with the **MERN Stack**
+- 🌱 Improving problem-solving skills through **DSA & LeetCode**
+- 🎨 Strong interest in **UI/UX** and clean frontend experiences
+- 💬 Ask me about **React, Node.js, MongoDB, Tailwind CSS**
+- 🤝 Open to **internships, collaborations, and open-source**
+- ⚡ I love turning ideas into beautiful and functional products
+- 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/mann-patel-839b33399) or my [Portfolio](https://mann-portfolio-six.vercel.app/)
 
 </td>
 <td width="40%" align="center" valign="middle">
@@ -73,38 +81,21 @@ I love crafting modern, responsive, and user-friendly web applications that don'
 
 ---
 
+<a id="what-i-do"></a>
+
 ## 🎯 What I Do
 
 | Area | Details |
 |------|---------|
-| 🖥️ **Frontend** | Responsive, modern UIs with React & Tailwind CSS |
-| ⚙️ **Backend** | REST APIs with Node.js, Express.js & MongoDB |
-| 🧠 **DSA** | Daily LeetCode practice — arrays, strings, recursion, linked lists |
-| 🎨 **UI/UX** | Clean design systems, layout thinking, visual hierarchy |
-| 🚀 **Projects** | Real-world apps built from scratch — no templates |
+| 🖥️ **Frontend** | Build responsive and modern interfaces using React and Tailwind CSS |
+| ⚙️ **Backend** | Create REST APIs with Node.js, Express.js, and MongoDB |
+| 🧠 **DSA** | Practice problem solving with arrays, strings, recursion, and linked lists |
+| 🎨 **UI/UX** | Focus on visual hierarchy, clean layouts, and better user experience |
+| 🚀 **Projects** | Build real-world projects with proper structure and functionality |
 
 ---
 
-## 📬 Connect With Me
-
-<div align="center">
-
-<a href="https://mann-portfolio-six.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐 Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/mann-patel-839b33399">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
-<a href="https://github.com/mann2007-ptl">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>&nbsp;
-<a href="https://leetcode.com/u/Mann2006/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>&nbsp;
-<a href="https://www.youtube.com/@patelmann7197">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
+<a id="tech-stack"></a>
 
 ## ⚡ Tech Stack
 
@@ -113,36 +104,52 @@ I love crafting modern, responsive, and user-friendly web applications that don'
 ### 🗣️ Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+&nbsp;
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<br/><br/>
 
 ### 🎨 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+&nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+<br/><br/>
 
 ### 🛠️ Backend & Database
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=white)
+&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<br/><br/>
 
 ### 🔧 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+&nbsp;
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
-
-<br/><br/>
+<a id="github-stats"></a>
 
 ## 📊 GitHub Stats
 
@@ -159,10 +166,11 @@ I love crafting modern, responsive, and user-friendly web applications that don'
 <img width="49%" src="https://github-stats-alpha.vercel.app/api?username=mann2007-ptl&cc=0d1117&tc=c4b5fd&ic=8b5cf6&bc=7c3aed" alt="GitHub Stats" />
 <img width="49%" src="https://streak-stats.demolab.com?user=mann2007-ptl&theme=transparent&hide_border=true&ring=c4b5fd&fire=f59e0b&currStreakLabel=c4b5fd&sideLabels=94a3b8&dates=94a3b8&sideNums=ffffff&currStreakNum=ffffff&background=0d1117&stroke=7c3aed" alt="GitHub Streak" />
 
-
 </div>
 
 ---
+
+<a id="leetcode-zone"></a>
 
 ## 🧠 LeetCode Zone
 
@@ -182,15 +190,9 @@ I love crafting modern, responsive, and user-friendly web applications that don'
 
 <br/>
 
-> 🎯 Practicing DSA daily — focused on **arrays, strings, recursion, linked lists**, and core problem-solving patterns
->
-> 💪 Using LeetCode to build strong fundamentals for coding interviews
->
-> 📈 Consistency over intensity — showing up every day
-
----
-
-
+> 🎯 Practicing DSA daily with focus on **arrays, strings, recursion, linked lists**, and core problem-solving patterns  
+> 💪 Using LeetCode to strengthen fundamentals for coding interviews  
+> 📈 Believing in consistency over intensity
 
 ---
 
@@ -210,32 +212,10 @@ I love crafting modern, responsive, and user-friendly web applications that don'
 
 ## 🌱 Growth Mindset
 
-```
+```text
 Every project  →  new lesson learned
 Every bug      →  deeper understanding
 Every commit   →  one step forward
 
 "I don't just write code. I build experiences."
                                     — Mann Patel
-```
-
----
-
-
-<br/><br/>
-
-> 💌 *Always open to internships, collaborations, open-source contributions, and good conversations!*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:7c3aed,30:5b21b6,65:312e81,85:111827,100:0b1020&animation=fadeIn" width="100%" />
-
-⭐ **If you found my work useful, consider giving a star!**
-
-*Thanks for visiting — let's build something amazing together 🚀*
-
-</div>
