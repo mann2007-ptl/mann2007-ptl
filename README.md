@@ -39,14 +39,17 @@
 <a href="#-about-me">
   <img src="https://img.shields.io/badge/01 · About-0f172a?style=for-the-badge&logo=readme&logoColor=white" />
 </a>&nbsp;
-<a href="#-tech-stack">
-  <img src="https://img.shields.io/badge/02 · Tech Stack-111827?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+<a href="#-what-i-do">
+  <img src="https://img.shields.io/badge/02 · What I Do-111827?style=for-the-badge&logo=target&logoColor=white" />
 </a>&nbsp;
-<a href="#-leetcode-zone">
-  <img src="https://img.shields.io/badge/04 · LeetCode-252945?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+<a href="#-tech-stack">
+  <img src="https://img.shields.io/badge/03 · Tech Stack-1f2937?style=for-the-badge&logo=stackoverflow&logoColor=white" />
 </a>&nbsp;
 <a href="#-github-stats">
-  <img src="https://img.shields.io/badge/05 · Stats-312e81?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/04 · Stats-312e81?style=for-the-badge&logo=githubactions&logoColor=white" />
+</a>&nbsp;
+<a href="#-leetcode-zone">
+  <img src="https://img.shields.io/badge/05 · LeetCode-252945?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>&nbsp;
 <a href="#-connect-with-me">
   <img src="https://img.shields.io/badge/06 · Contact-4c1d95?style=for-the-badge&logo=gmail&logoColor=white" />
