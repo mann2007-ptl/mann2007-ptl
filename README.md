@@ -137,9 +137,7 @@ As I kept learning, I moved into **full stack development with the MERN stack** 
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,c,cpp,git,github,vscode,postman,figma&theme=dark&perline=8" />
 
-</div>
 
 ---
 
