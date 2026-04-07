@@ -8,24 +8,6 @@
 
 <br/><br/>
 
-<a href="https://mann-portfolio-six.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐 Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>&nbsp;
-<a href="https://github.com/mann2007-ptl">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/mann-patel-839b33399">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
-<a href="https://leetcode.com/u/Mann2006/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>&nbsp;
-<a href="https://www.youtube.com/@patelmann7197">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<br/><br/>
-
 <a href="https://komarev.com/ghpvc/?username=mann2007-ptl">
   <img src="https://komarev.com/ghpvc/?username=mann2007-ptl&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 </a>&nbsp;
@@ -103,6 +85,27 @@ I love crafting modern, responsive, and user-friendly web applications that don'
 
 ---
 
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://mann-portfolio-six.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐 Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/mann-patel-839b33399">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="https://github.com/mann2007-ptl">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>&nbsp;
+<a href="https://leetcode.com/u/Mann2006/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.youtube.com/@patelmann7197">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+
 ## ⚡ Tech Stack
 
 <div align="center">
@@ -138,25 +141,6 @@ I love crafting modern, responsive, and user-friendly web applications that don'
 
 ---
 
-## 📬 Connect With Me
-
-<div align="center">
-
-<a href="https://mann-portfolio-six.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐 Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/mann-patel-839b33399">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
-<a href="https://github.com/mann2007-ptl">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>&nbsp;
-<a href="https://leetcode.com/u/Mann2006/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>&nbsp;
-<a href="https://www.youtube.com/@patelmann7197">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
 
 <br/><br/>
 
