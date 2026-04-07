@@ -160,7 +160,23 @@ I love crafting modern, responsive, and user-friendly web applications that don'
 
 <br/><br/>
 
+## 📊 GitHub Stats
 
+<div align="center">
+
+### 🔥 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mann2007-ptl&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=f59e0b&area=true&area_color=5b21b6&hide_border=true" width="96%" alt="Activity Graph" />
+
+<br/><br/>
+
+### 📈 Core Stats
+
+<img width="49%" src="https://github-stats-alpha.vercel.app/api?username=mann2007-ptl&cc=0d1117&tc=c4b5fd&ic=8b5cf6&bc=7c3aed" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=mann2007-ptl&theme=transparent&hide_border=true&ring=c4b5fd&fire=f59e0b&currStreakLabel=c4b5fd&sideLabels=94a3b8&dates=94a3b8&sideNums=ffffff&currStreakNum=ffffff&background=0d1117&stroke=7c3aed" alt="GitHub Streak" />
+
+
+</div>
 
 ---
 
@@ -190,23 +206,7 @@ I love crafting modern, responsive, and user-friendly web applications that don'
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-### 🔥 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mann2007-ptl&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=f59e0b&area=true&area_color=5b21b6&hide_border=true" width="96%" alt="Activity Graph" />
-
-<br/><br/>
-
-### 📈 Core Stats
-
-<img width="49%" src="https://github-stats-alpha.vercel.app/api?username=mann2007-ptl&cc=0d1117&tc=c4b5fd&ic=8b5cf6&bc=7c3aed" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=mann2007-ptl&theme=transparent&hide_border=true&ring=c4b5fd&fire=f59e0b&currStreakLabel=c4b5fd&sideLabels=94a3b8&dates=94a3b8&sideNums=ffffff&currStreakNum=ffffff&background=0d1117&stroke=7c3aed" alt="GitHub Streak" />
-
-
-</div>
 
 ---
 
@@ -237,25 +237,6 @@ Every commit   →  one step forward
 
 ---
 
-## 📬 Connect With Me
-
-<div align="center">
-
-<a href="https://mann-portfolio-six.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐 Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/mann-patel-839b33399">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
-<a href="https://github.com/mann2007-ptl">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>&nbsp;
-<a href="https://leetcode.com/u/Mann2006/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>&nbsp;
-<a href="https://www.youtube.com/@patelmann7197">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
 
 <br/><br/>
 
