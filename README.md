@@ -138,21 +138,29 @@ I love crafting modern, responsive, and user-friendly web applications that don'
 
 ---
 
-## 🚀 Featured Projects
+## 📬 Connect With Me
 
 <div align="center">
 
-| 🏷️ Project | 📝 Description | 🔨 Stack | 🔗 Repo |
-|-----------|---------------|---------|--------|
-| 🔍 **GitHub Profile Analyzer** | Analyze GitHub profiles, repos & coding activity in a clean interface | `React` `GitHub API` | [View →](https://github.com/mann2007-ptl/Github-profileAnalyzer) |
-| 🧊 **YETI Clone** | Frontend clone with clean layout structure and strong visual presentation | `HTML` `CSS` | [View →](https://github.com/mann2007-ptl/yeti-diwali-assgn) |
-| 🏔️ **SALOMON Clone** | Modern brand-style website with polished UI and responsive design | `HTML` `CSS` | [View →](https://github.com/mann2007-ptl/salomon-diwali-asgn) |
-| 🐊 **LACOSTE Clone** | E-commerce inspired clone with premium layout and product sections | `HTML` `CSS` | [View →](https://github.com/mann2007-ptl/diwali_assgn1) |
-| 📺 **JIO HOTSTAR Clone** | Streaming-platform interface with organized content blocks | `HTML` `CSS` | [View →](https://github.com/mann2007-ptl/diwali_assgn) |
-| 🥤 **STANLEY Clone** | Product-focused frontend with bold branding and rich sections | `HTML` `CSS` | [View →](https://github.com/mann2007-ptl/stanley-diwal-assgn-) |
-| 🎵 **ULTIMATE EARS Clone** | Bold product landing page with strong branding and visual balance | `HTML` `CSS` | [View →](https://github.com/mann2007-ptl/ultimate-ears-diwali-assgn) |
+<a href="https://mann-portfolio-six.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐 Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/mann-patel-839b33399">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="https://github.com/mann2007-ptl">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>&nbsp;
+<a href="https://leetcode.com/u/Mann2006/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.youtube.com/@patelmann7197">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
-</div>
+<br/><br/>
+
+
 
 ---
 
