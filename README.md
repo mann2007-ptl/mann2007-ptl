@@ -2,8 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a2e,60:0d2137,100:0a3d2e&height=260&section=header&text=Mann%20Patel%20⚡&fontSize=85&fontColor=00FFB3&animation=fadeIn&fontAlignY=45&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20MERN%20Stack&descAlignY=65&descAlign=50&descSize=18&stroke=00FFB3&strokeWidth=2" width="100%"/>
 
-</br>
+<div align="center">
 
+<h1>
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="50%"/>
+</h1>
+
+</div>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&multiline=true&width=780&height=80&lines=%E2%96%B6+React+%7C+Node.js+%7C+MongoDB+%7C+Tailwind+CSS;%E2%96%B6+Building+modern+apps+with+clean+UI+%26+strong+logic;%E2%96%B6+Open+to+Internships+%7C+Collaborations+%7C+Real-world+Projects" alt="Typing SVG" />
@@ -47,21 +52,20 @@
 
 <a id="about-me"></a>
 
-<a id="about-me"></a>
-
 ## 🧑‍💻 About Me
 
-<img align="right" width="40%" src="YOUR_GIF_LINK_HERE" />
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 I'm **Mann Patel**, a **Computer Engineering student** from **Gujarat, India** with a strong interest in building modern, responsive, and user-friendly web applications.
 
 I started with **HTML, CSS, JavaScript, Git, GitHub, and Figma**, which helped me build strong frontend fundamentals and improve my design sense. As I progressed, I moved into **full stack development with the MERN stack** and started building applications using **React, Node.js, Express.js, and MongoDB**.
 
-- 🔨 Building real-world projects with clean UI and proper structure  
-- 💡 Interested in frontend development, backend integration, and UI/UX  
-- 🤝 Open to internships, collaborations, and exciting opportunities  
+- 🔨 Building real-world projects with clean UI and proper structure
+- 💡 Interested in frontend development, backend integration, and UI/UX
+- 🤝 Open to internships, collaborations, and exciting opportunities
 
 <br clear="right"/>
+
 ---
 
 <a id="connect-with-me"></a>
