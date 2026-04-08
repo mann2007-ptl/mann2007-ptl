@@ -1,8 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Mann%20Patel&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20MERN%20Stack&descAlignY=62&descAlign=50" width="100%"/>
+<!-- ===================== HEADER ===================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a2e,60:0d2137,100:0a3d2e&height=260&section=header&text=Mann%20Patel&fontSize=85&fontColor=00FFB3&animation=fadeIn&fontAlignY=45&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20MERN%20Stack&descAlignY=65&descAlign=50&descSize=18&stroke=00FFB3&strokeWidth=2" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&multiline=true&width=780&height=100&lines=%F0%9F%94%A5+React+%7C+Node.js+%7C+MongoDB+%7C+Tailwind+CSS;%F0%9F%9A%80+Building+modern+apps+with+clean+UI+%26+strong+logic;%E2%9A%A1+Open+to+Internships+%7C+Collaborations+%7C+Real-world+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&multiline=true&width=780&height=80&lines=%E2%96%B6+React+%7C+Node.js+%7C+MongoDB+%7C+Tailwind+CSS;%E2%96%B6+Building+modern+apps+with+clean+UI+%26+strong+logic;%E2%96%B6+Open+to+Internships+%7C+Collaborations+%7C+Real-world+Projects" alt="Typing SVG" />
+
+<br/>
+
+```
+ _    _      _ _         __        __         _     _ _
+| |  | |    | | |        \ \      / /        | |   | | |
+| |__| | ___| | | ___     \ \ /\ / /__  _ __| | __| | |
+|  __  |/ _ \ | |/ _ \    \ V  V / _ \| '__| |/ _` | |
+| |  | |  __/ | | (_) |    \_/\_/ (_) | |  | | (_| |_|
+|_|  |_|\___|_|_|\___/                |_|  |_|\__,_(_)
+```
 
 <br/>
 
@@ -12,37 +25,26 @@
 
 </div>
 
----
-
-```
- _    _      _ _         __        __         _     _ _ 
-| |  | |    | | |        \ \      / /        | |   | | |
-| |__| | ___| | | ___     \ \ /\ / /__  _ __| | __| | |
-|  __  |/ _ \ | |/ _ \    \ V  V / _ \| '__| |/ _` | |
-| |  | |  __/ | | (_) |    \_/\_/ (_) | |  | | (_| |_|
-|_|  |_|\___|_|_|\___/                |_|  |_|\__,_(_)
-```
-
 <div align="center">
 
 <a href="#about-me">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━%20About%20━━━━━━━━━━━━━━━━-0D1117?style=for-the-badge&logo=readme&logoColor=00FFB3" />
+  <img src="https://img.shields.io/badge/About-0D1117?style=for-the-badge&logo=readme&logoColor=white" />
 </a>
 &nbsp;
 <a href="#connect-with-me">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━%20Connect%20━━━━━━━━━━━━━━━━-0D1117?style=for-the-badge&logo=lightning&logoColor=00FFB3" />
+  <img src="https://img.shields.io/badge/Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="#skills">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━%20Skills%20━━━━━━━━━━━━━━━━-0D1117?style=for-the-badge&logo=stackoverflow&logoColor=00FFB3" />
+  <img src="https://img.shields.io/badge/Skills-1F2937?style=for-the-badge&logo=stackoverflow&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="#github-stats">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━%20Stats%20━━━━━━━━━━━━━━━━-0D1117?style=for-the-badge&logo=githubactions&logoColor=00FFB3" />
+  <img src="https://img.shields.io/badge/Stats-252945?style=for-the-badge&logo=githubactions&logoColor=white" />
 </a>
 &nbsp;
 <a href="#leetcode">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━%20LeetCode%20━━━━━━━━━━━━━━━━-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  <img src="https://img.shields.io/badge/LeetCode-1E1B4B?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
 
 </div>
@@ -59,9 +61,9 @@ I'm **Mann Patel**, a **Computer Engineering student** from **Gujarat, India** w
 
 I started with **HTML, CSS, JavaScript, Git, GitHub, and Figma**, which helped me build strong frontend fundamentals and improve my design sense. As I progressed, I moved into **full stack development with the MERN stack** and started building applications using **React, Node.js, Express.js, and MongoDB**.
 
-- 🔨 Building real-world projects with clean UI and proper structure  
-- 💡 Interested in frontend development, backend integration, and UI/UX  
-- 🤝 Open to internships, collaborations, and exciting opportunities  
+- 🔨 Building real-world projects with clean UI and proper structure
+- 💡 Interested in frontend development, backend integration, and UI/UX
+- 🤝 Open to internships, collaborations, and exciting opportunities
 
 <br clear="right"/>
 
@@ -203,6 +205,6 @@ I started with **HTML, CSS, JavaScript, Git, GitHub, and Figma**, which helped m
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks+for+visiting+%F0%9F%9A%80&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d2e,50:0d2137,100:000000&height=120&section=footer&text=Thanks+for+visiting+%F0%9F%9A%80&fontSize=28&fontColor=00FFB3&animation=twinkling&fontAlignY=70" width="100%"/>
 
 </div>
