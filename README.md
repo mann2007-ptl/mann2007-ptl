@@ -1,23 +1,26 @@
 <!-- ===================== HEADER ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a2e,60:0d2137,100:0a3d2e&height=260&section=header&text=Mann%20Patel&fontSize=85&fontColor=00FFB3&animation=fadeIn&fontAlignY=45&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20MERN%20Stack&descAlignY=65&descAlign=50&descSize=18&stroke=00FFB3&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a2e,60:0d2137,100:0a3d2e&height=260&section=header&text=Mann%20Patel%20⚡&fontSize=85&fontColor=00FFB3&animation=fadeIn&fontAlignY=45&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20MERN%20Stack&descAlignY=65&descAlign=50&descSize=18&stroke=00FFB3&strokeWidth=2" width="100%"/>
+
+</br>
+
+<div align="center">
+
+<h1>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%"/>
+</h1>
+
+</div>
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&multiline=true&width=780&height=80&lines=%E2%96%B6+React+%7C+Node.js+%7C+MongoDB+%7C+Tailwind+CSS;%E2%96%B6+Building+modern+apps+with+clean+UI+%26+strong+logic;%E2%96%B6+Open+to+Internships+%7C+Collaborations+%7C+Real-world+Projects" alt="Typing SVG" />
 
-<br/>
 
-```
- _    _      _ _         __        __         _     _ _
-| |  | |    | | |        \ \      / /        | |   | | |
-| |__| | ___| | | ___     \ \ /\ / /__  _ __| | __| | |
-|  __  |/ _ \ | |/ _ \    \ V  V / _ \| '__| |/ _` | |
-| |  | |  __/ | | (_) |    \_/\_/ (_) | |  | | (_| |_|
-|_|  |_|\___|_|_|\___/                |_|  |_|\__,_(_)
-```
 
-<br/>
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mann2007-ptl&color=00FFB3&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
