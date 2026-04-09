@@ -164,20 +164,15 @@ I started with **HTML, CSS, JavaScript, Git, GitHub, and Figma**, which helped m
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mann2007-ptl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00D9FF&text_color=C9D1D9&ring_color=00FFB3&count_private=true" />
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mann2007-ptl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=C9D1D9" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mann2007-ptl&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mann2007-ptl&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=mann2007-ptl&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB3&fire=00D9FF&currStreakLabel=00FFB3&sideLabels=C9D1D9&dates=C9D1D9&sideNums=00FFB3&currStreakNum=00D9FF" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mann2007-ptl&bg_color=0d1117&color=00FFB3&line=00D9FF&point=f59e0b&area=true&area_color=00FFB3&hide_border=true" width="96%" alt="Activity Graph" />
+<img src="https://streak-stats.demolab.com?user=mann2007-ptl&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
 ---
 
 <a id="leetcode"></a>
