@@ -14,7 +14,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&multiline=true&width=780&height=80&lines=%E2%96%B6+React+%7C+Node.js+%7C+MongoDB+%7C+Tailwind+CSS;%E2%96%B6+Building+modern+apps+with+clean+UI+%26+strong+logic;%E2%96%B6+Open+to+Internships+%7C+Collaborations+%7C+Real-world+Projects" alt="Typing SVG" />
 
 
-<br />
+<br/> <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mann2007-ptl&color=00FFB3&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
