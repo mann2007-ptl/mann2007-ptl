@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a2e,60:0d2137,100:0a3d2e&height=260&section=header&text=Mann%20Patel%20⚡&fontSize=85&fontColor=00FFB3&animation=fadeIn&fontAlignY=45&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20MERN%20Stack&descAlignY=65&descAlign=50&descSize=18&stroke=00FFB3&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a2e,60:0d2137,100:0a3d2e&height=260&section=header&text=Mann%20Patel%20&fontSize=85&fontColor=00FFB3&animation=fadeIn&fontAlignY=45&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20MERN%20Stack&descAlignY=65&descAlign=50&descSize=18&stroke=00FFB3&strokeWidth=2" width="100%"/>
 
 <div align="center">
 
