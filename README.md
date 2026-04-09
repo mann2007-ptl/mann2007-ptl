@@ -173,7 +173,7 @@ I started with **HTML, CSS, JavaScript, Git, GitHub, and Figma**, which helped m
 <img src="https://streak-stats.demolab.com?user=mann2007-ptl&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
----
+
 
 <a id="leetcode"></a>
 
