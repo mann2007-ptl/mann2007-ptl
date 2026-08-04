@@ -122,46 +122,60 @@ I started with **HTML, CSS, JavaScript, Git, GitHub, and Figma**, which helped m
 
 <div align="center">
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,c,cpp&theme=dark" />
+### 💻 Core Languages
 
-<br/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,react&theme=dark" />
+<br/><br/>
 
-<br/>
+### 🌐 Frontend & Mobile
 
-### 📱 Mobile
-<img src="https://skillicons.dev/icons?i=react&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/REACT_NATIVE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
 <br/><br/>
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-<br/>
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+<br/><br/>
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" />
 
-<br/>
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+<br/><br/>
 
 ### ☁️ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gitlab&theme=dark" />
 
-<br/>
-
-### 🤖 AI & Prompt Engineering
-<img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge&logo=openai&logoColor=00FFB3" />
-<img src="https://img.shields.io/badge/LLM_Tooling-0D1117?style=for-the-badge&logo=anthropic&logoColor=00FFB3" />
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/GITLAB_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 
 <br/><br/>
 
 ### 🧰 Tools & Design
-<img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,postman,figma,vercel&theme=dark" />
+
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/BITBUCKET-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 </div>
 
@@ -187,9 +201,9 @@ I started with **HTML, CSS, JavaScript, Git, GitHub, and Figma**, which helped m
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mann2007-ptl&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mann2007-ptl&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mann2007-ptl&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mann2007-ptl&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
 
 <br/><br/>
 
@@ -197,15 +211,11 @@ I started with **HTML, CSS, JavaScript, Git, GitHub, and Figma**, which helped m
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mann2007-ptl&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
-
-<br/><br/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=mann2007-ptl&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
 
 </div>
 
-> ℹ️ If any stat card above shows "Something went wrong" or fails to load, it's usually the shared Vercel instance hitting GitHub's API rate limit — refreshing the page or [deploying your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) fixes it permanently.
+> ℹ️ These cards run on shared free Vercel instances that GitHub sometimes rate-limits — if one shows "Something went wrong," it's not your README, it's just the service being slow. It usually resolves itself within a few minutes; a hard refresh often fixes it instantly too.
 
 ---
 
