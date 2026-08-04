@@ -207,16 +207,6 @@ I started with **HTML, CSS, JavaScript, Git, GitHub, and Figma**, which helped m
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=mann2007-ptl&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mann2007-ptl&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
-
-</div>
-
-> ℹ️ These cards run on shared free Vercel instances that GitHub sometimes rate-limits — if one shows "Something went wrong," it's not your README, it's just the service being slow. It usually resolves itself within a few minutes; a hard refresh often fixes it instantly too.
-
 ---
 
 <a id="leetcode"></a>
