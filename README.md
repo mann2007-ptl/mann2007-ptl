@@ -201,11 +201,19 @@ I started with **HTML, CSS, JavaScript, Git, GitHub, and Figma**, which helped m
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mann2007-ptl&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Dev1822&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Dev1822&show_icons=true&theme=radical"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mann2007-ptl&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+</div>
 
 <br/><br/>
+
+---
+<div align="center">
+
+[![Mann's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mann2007-ptl&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
@@ -227,12 +235,18 @@ I started with **HTML, CSS, JavaScript, Git, GitHub, and Figma**, which helped m
 
 ---
 
+## My Contributions
+
+![Contributions](https://ssr-contributions-svg.vercel.app/_/Dev1822?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large)
+
+---
+
 <div align="center">
 
 ### ✨ *"Code is not just syntax — it's a craft."*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d2e,50:0d2137,100:000000&height=120&section=footer&text=Thanks+for+visiting+%F0%9F%9A%80&fontSize=28&fontColor=00FFB3&animation=twinkling&fontAlignY=70" width="100%"/>
+![Wave](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
 
 </div>
