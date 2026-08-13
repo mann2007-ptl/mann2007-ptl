@@ -201,8 +201,8 @@ I started with **HTML, CSS, JavaScript, Git, GitHub, and Figma**, which helped m
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Dev1822&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Dev1822&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=mann2007-ptl&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mann2007-ptl&show_icons=true&theme=radical"/>
 
 </div>
 
