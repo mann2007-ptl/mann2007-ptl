@@ -14,12 +14,9 @@
 
 <br/><br/>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmann2007-ptl&count_bg=%2300FFB3&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views"/>
-&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=mann2007-ptl&label=PROFILE+VIEWS&color=00FFB3&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/mann2007-ptl?style=for-the-badge&color=00D9FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/mann2007-ptl?tab=followers)
-&nbsp;
 [![GitHub Stars](https://img.shields.io/github/stars/mann2007-ptl?style=for-the-badge&color=FFA116&labelColor=0D1117&label=STARS)](https://github.com/mann2007-ptl?tab=repositories)
-
 <br/>
 
 </div>
