@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mann2007-ptl&color=00FFB3&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmann2007-ptl&count_bg=%2300FFB3&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views"/>
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/mann2007-ptl?style=for-the-badge&color=00D9FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/mann2007-ptl?tab=followers)
 &nbsp;
@@ -209,7 +209,9 @@ I started with **HTML, CSS, JavaScript, Git, GitHub, and Figma**, which helped m
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mann2007-ptl&bg_color=0D1117&color=00FFB3&line=00D9FF&point=FFA116&area=true&hide_border=true" width="96%" alt="Activity Graph" />
+<a href="https://github.com/mann2007-ptl">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mann2007-ptl&theme=tokyonight" width="96%" alt="Activity Graph"/>
+</a>
 
 </div>
 
