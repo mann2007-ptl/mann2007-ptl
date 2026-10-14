@@ -1,138 +1,72 @@
 <!-- ===================== HEADER ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,35:302b63,70:6a11cb,100:ff4fd8&height=300&section=header&text=Sanvi%20Thakur&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Aspiring%20Web%20Developer%20%7C%20Design%20Lover%20%7C%20Learning%20in%20Public&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a2e,60:0d2137,100:0a3d2e&height=260&section=header&text=Mann%20Patel&fontSize=85&fontColor=00FFB3&animation=fadeIn&fontAlignY=45&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Enthusiast%20%7C%20MERN%20%2B%20Next.js&descAlignY=65&descAlign=50&descSize=18&stroke=00FFB3&strokeWidth=2" width="100%"/>
 
 <div align="center">
 
-<!-- GIF 1 (top) -->
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="520" alt="Coding animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="50%"/>
 
-<br/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=800&color=FF4FD8&center=true&vCenter=true&width=800&height=60&lines=Hello+World!+I'm+Sanvi+Thakur+%F0%9F%91%8B;1st+Year+Student+%7C+Aspiring+Web+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Turning+ideas+into+pixels+%E2%9C%A8;Learning+in+public...+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&multiline=true&width=780&height=100&lines=%E2%96%B6+React+%7C+Next.js+%7C+React+Native+%7C+Node.js;%E2%96%B6+MySQL+%7C+MongoDB+%7C+Redis+%7C+Docker+%7C+Kubernetes;%E2%96%B6+CI%2FCD+with+GitHub+Actions+%2F+GitLab+CI;%E2%96%B6+Exploring+Prompt+Engineering+%26+AI+Tooling" alt="Typing SVG" />
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tsanvi038-cpu&label=PROFILE+VIEWS&color=ff4fd8&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/tsanvi038-cpu?style=for-the-badge&color=00E5FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/tsanvi038-cpu?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/tsanvi038-cpu?style=for-the-badge&color=FFA116&labelColor=0D1117&label=STARS)](https://github.com/tsanvi038-cpu?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=mann2007-ptl&label=PROFILE+VIEWS&color=00FFB3&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/mann2007-ptl?style=for-the-badge&color=00D9FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/mann2007-ptl?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/mann2007-ptl?style=for-the-badge&color=FFA116&labelColor=0D1117&label=STARS)](https://github.com/mann2007-ptl?tab=repositories)
+<br/>
 
 </div>
-
-<!-- ===================== NAVBAR ===================== -->
 
 <div align="center">
 
-<a href="#about-me"><img src="https://img.shields.io/badge/About-0D1117?style=for-the-badge&logo=readme&logoColor=white" /></a>
+<a href="#about-me">
+  <img src="https://img.shields.io/badge/About-0D1117?style=for-the-badge&logo=readme&logoColor=white" />
+</a>
 &nbsp;
-<a href="#skills"><img src="https://img.shields.io/badge/Skills-302b63?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+<a href="#connect-with-me">
+  <img src="https://img.shields.io/badge/Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 &nbsp;
-<a href="#github-stats"><img src="https://img.shields.io/badge/Stats-6a11cb?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
+<a href="#skills">
+  <img src="https://img.shields.io/badge/Skills-1F2937?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</a>
 &nbsp;
-<a href="#connect-with-me"><img src="https://img.shields.io/badge/Connect-ff4fd8?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#github-stats">
+  <img src="https://img.shields.io/badge/Stats-252945?style=for-the-badge&logo=githubactions&logoColor=white" />
+</a>
+&nbsp;
+<a href="#leetcode">
+  <img src="https://img.shields.io/badge/LeetCode-1E1B4B?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:ff4fd8&height=3" width="100%"/>
-
-<!-- ===================== ABOUT ===================== -->
+---
 
 <a id="about-me"></a>
 
-## 👩‍💻 About Me
+## 🧑‍💻 About Me
 
-<!-- GIF 2 (about) -->
-<img align="right" alt="Lofi coding vibes" width="320" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/lofi.gif"/>
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-Hey there, I'm **Sanvi Thakur** 👋
+I'm **Mann Patel**, a **Computer Engineering student** from **Gujarat, India** with a strong interest in building modern, scalable, and production-ready applications — from the UI all the way down to the deployment pipeline.
 
-I'm a **1st year, 1st semester student** who fell in love with building things for the web. I love the moment when a few lines of code turn into something you can actually see and click. 💜
+I started with **HTML, CSS, JavaScript, Git, GitHub, and Figma**, which helped me build strong frontend fundamentals and a sharp design sense. From there I moved into **full stack development with the MERN stack + Next.js**, and I'm now expanding into **mobile development with React Native** and the **DevOps side of shipping software** — Docker, Kubernetes, CI/CD, and cloud-native workflows. I'm also actively exploring **Prompt Engineering** and how to build effective, reliable AI-powered features.
 
-I started with **HTML, CSS and JavaScript** to build web pages, added **Python** for problem solving, and I use **Git & GitHub** to save my progress. When a project is ready, I put it live on the internet with **Vercel**. Before I code, I sketch my ideas in **Figma**, because I believe good design makes good software. ✨
-
-### 🔭 What I'm up to
-
-- 🌱 Learning **HTML, CSS, JavaScript & Python** from the ground up
-- 🎨 Designing clean, colourful UI ideas in **Figma**
-- 🚀 Deploying my first projects on **Vercel**
-- 🐙 Pushing code to **GitHub** regularly and learning Git properly
-- 🧠 Practising logic and problem solving, one small problem at a time
-
-### 🎯 What I'm aiming for
-
-- 💻 Become a confident **Full Stack Developer**
-- 🛠️ Build real projects that people can actually use
-- 🤝 Learn with others, collaborate, and make new dev friends
+- 🔭 Currently building full stack apps with **Next.js**, **Node.js**, and **MySQL / MongoDB**
+- 🐳 Learning to containerize & orchestrate apps with **Docker** and **Kubernetes**
+- ⚙️ Setting up **CI/CD pipelines** with **GitHub Actions** and **GitLab CI**
+- 🤖 Exploring **Prompt Engineering** and AI-assisted development workflows
+- 📱 Expanding into cross-platform mobile apps with **React Native**
+- 🤝 Open to internships, collaborations, and real-world opportunities
 
 <br clear="right"/>
 
-```python
-class Sanvi:
-    def __init__(self):
-        self.name = "Sanvi Thakur"
-        self.role = "1st Year Student & Aspiring Web Developer"
-        self.learning = ["HTML", "CSS", "JavaScript", "Python"]
-        self.tools = ["Git", "GitHub", "Vercel", "VS Code", "Figma"]
-        self.goal = "Full Stack Developer 🚀"
-        self.motto = "Learning in public, one commit at a time"
-
-    def say_hi(self):
-        print("Thanks for visiting my profile! 💜")
-
-Sanvi().say_hi()
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:ff4fd8&height=3" width="100%"/>
-
-<!-- ===================== SKILLS ===================== -->
-
-<a id="skills"></a>
-
-## 🛠️ Skills & Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" />
-
-<br/><br/>
-
-### 🧰 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" />
-
-<br/><br/>
-
-### 🎨 Design
-
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:ff4fd8&height=3" width="100%"/>
-
-<!-- ===================== STATS ===================== -->
-
-<a id="github-stats"></a>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tsanvi038-cpu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4fd8&icon_color=00E5FF&text_color=C9D1D9&ring_color=ff4fd8&count_private=true" />
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsanvi038-cpu&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4fd8&text_color=C9D1D9" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=tsanvi038-cpu&theme=radical&hide_border=true&background=0D1117&ring=ff4fd8&fire=00E5FF&currStreakLabel=ff4fd8&sideLabels=C9D1D9&dates=C9D1D9&sideNums=ff4fd8&currStreakNum=00E5FF" alt="GitHub Streak" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:ff4fd8&height=3" width="100%"/>
-
-<!-- ===================== CONNECT ===================== -->
+---
 
 <a id="connect-with-me"></a>
 
@@ -143,22 +77,26 @@ Sanvi().say_hi()
 <table>
   <tr>
     <td align="center" width="200">
-      <a href="https://github.com/tsanvi038-cpu">
-        <img src="https://img.shields.io/badge/-%20GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" /><br/>
-        <sub><b>Follow Me</b></sub>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <!-- Replace YOUR-LINKEDIN-ID with the real LinkedIn id, or delete this cell -->
-      <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+      <a href="https://www.linkedin.com/in/mann-patel-839b33399">
         <img src="https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
         <sub><b>Let's Connect</b></sub>
       </a>
     </td>
     <td align="center" width="200">
-      <!-- Replace with the portfolio / Vercel link once it is live, or delete this cell -->
-      <a href="https://YOUR-PORTFOLIO.vercel.app/">
-        <img src="https://img.shields.io/badge/-%20Portfolio-ff4fd8?style=for-the-badge&logo=vercel&logoColor=black" /><br/>
+      <a href="https://github.com/mann2007-ptl">
+        <img src="https://img.shields.io/badge/-%20GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" /><br/>
+        <sub><b>Follow Me</b></sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://leetcode.com/u/Mann2006/">
+        <img src="https://img.shields.io/badge/-%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /><br/>
+        <sub><b>My Profile</b></sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://mann-portfolio-six.vercel.app/">
+        <img src="https://img.shields.io/badge/-%20Portfolio-00FFB3?style=for-the-badge&logo=vercel&logoColor=black" /><br/>
         <sub><b>Visit Now ↗</b></sub>
       </a>
     </td>
@@ -167,19 +105,139 @@ Sanvi().say_hi()
 
 <br/>
 
-> 💬 *"I'm just getting started, but I'm excited to learn, build and grow with this community. Say hi!"*
-
-### ✨ *"Every expert was once a beginner."*
-
-<br/>
-
-<!-- GIF 3 (bottom) -->
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" alt="Coding"/>
-
-<br/>
-
-**Thanks for stopping by! Don't forget to leave a ⭐**
+> 💬 *"I'm always open to connecting with fellow developers, designers, and tech enthusiasts. Feel free to reach out!"*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,35:302b63,70:6a11cb,100:ff4fd8&height=160&section=footer&animation=twinkling" width="100%"/>
+---
+
+<a id="skills"></a>
+
+## 🛠️ Skills & Tech Stack
+
+<div align="center">
+
+### 💻 Core Languages
+
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+<br/><br/>
+
+### 🌐 Frontend & Mobile
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/REACT_NATIVE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+<br/><br/>
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+<br/><br/>
+
+### 🗄️ Databases
+
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+<br/><br/>
+
+### ☁️ DevOps & Cloud
+
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/GITLAB_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+
+<br/><br/>
+
+### 🧰 Tools & Design
+
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/BITBUCKET-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mann2007-ptl/mann2007-ptl/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mann2007-ptl/mann2007-ptl/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/mann2007-ptl/mann2007-ptl/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+<a id="github-stats"></a>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mann2007-ptl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00D9FF&text_color=C9D1D9&ring_color=00FFB3&count_private=true" />
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mann2007-ptl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=mann2007-ptl&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB3&fire=00D9FF&currStreakLabel=00FFB3&sideLabels=C9D1D9&dates=C9D1D9&sideNums=00FFB3&currStreakNum=00D9FF" alt="GitHub Streak" />
+
+<br/><br/>
+
+<a href="https://github.com/mann2007-ptl">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mann2007-ptl&theme=tokyonight" width="96%" alt="Activity Graph"/>
+</a>
+
+</div>
+
+---
+
+<a id="leetcode"></a>
+
+## 🧩 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Mann2006?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" width="500"/>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/Mann2006/">
+  <img src="https://img.shields.io/badge/LeetCode-Mann2006-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a1a" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ *"Code is not just syntax — it's a craft."*
+
+<br/>
+
+![Wave](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
+
+</div>
