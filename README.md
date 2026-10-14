@@ -4,7 +4,8 @@
 
 <div align="center">
 
-<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/night%20code.gif" width="600" alt="Night coding"/>
+<!-- GIF 1 (top) -->
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="520" alt="Coding animation"/>
 
 <br/>
 
@@ -30,14 +31,6 @@
 &nbsp;
 <a href="#connect-with-me"><img src="https://img.shields.io/badge/Connect-ff4fd8?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<br/><br/>
-
-<!-- Octocat dance party -->
-<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/daftpunktocat-guy.gif" width="90"/>
-<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/daftpunktocat-thomas.gif" width="90"/>
-<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/maxtocat.gif" width="90"/>
-<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/carlostocat.gif" width="90"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:ff4fd8&height=3" width="100%"/>
@@ -48,7 +41,8 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="Coding cat" width="300" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/giphy.gif"/>
+<!-- GIF 2 (about) -->
+<img align="right" alt="Lofi coding vibes" width="320" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/lofi.gif"/>
 
 Hey there, I'm **Sanvi Thakur** 👋
 
@@ -88,12 +82,6 @@ class Sanvi:
 Sanvi().say_hi()
 ```
 
-<div align="center">
-
-<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/multi-screen.gif" width="520" alt="Coding setup"/>
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:ff4fd8&height=3" width="100%"/>
 
 <!-- ===================== SKILLS ===================== -->
@@ -120,10 +108,6 @@ Sanvi().say_hi()
 
 <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 
-<br/><br/>
-
-<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/python-2.gif" width="420" alt="Coding gif"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:ff4fd8&height=3" width="100%"/>
@@ -143,10 +127,6 @@ Sanvi().say_hi()
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=tsanvi038-cpu&theme=radical&hide_border=true&background=0D1117&ring=ff4fd8&fire=00E5FF&currStreakLabel=ff4fd8&sideLabels=C9D1D9&dates=C9D1D9&sideNums=ff4fd8&currStreakNum=00E5FF" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="300" alt="Dino"/>
 
 </div>
 
@@ -187,18 +167,16 @@ Sanvi().say_hi()
 
 <br/>
 
-<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/coffee.gif" width="200" alt="Coffee"/>
-<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/lofi.gif" width="300" alt="Lofi"/>
-
-<br/><br/>
-
 > 💬 *"I'm just getting started, but I'm excited to learn, build and grow with this community. Say hi!"*
 
 ### ✨ *"Every expert was once a beginner."*
 
 <br/>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260" alt="Coding"/>
+<!-- GIF 3 (bottom) -->
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" alt="Coding"/>
+
+<br/>
 
 **Thanks for stopping by! Don't forget to leave a ⭐**
 
