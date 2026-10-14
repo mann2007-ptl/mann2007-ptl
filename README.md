@@ -1,12 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a2e,60:0d2137,100:0a3d2e&height=260&section=header&text=Mann%20Patel%20&fontSize=85&fontColor=00FFB3&animation=fadeIn&fontAlignY=45&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Enthusiast%20%7C%20MERN%20%2B%20Next.js&descAlignY=65&descAlign=50&descSize=18&stroke=00FFB3&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a2e,60:0d2137,100:0a3d2e&height=260&section=header&text=Mann%20Patel&fontSize=85&fontColor=00FFB3&animation=fadeIn&fontAlignY=45&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Enthusiast%20%7C%20MERN%20%2B%20Next.js&descAlignY=65&descAlign=50&descSize=18&stroke=00FFB3&strokeWidth=2" width="100%"/>
 
 <div align="center">
 
-<h1>
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="50%"/>
-</h1>
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="50%"/>
 
 </div>
 
@@ -14,7 +12,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&multiline=true&width=780&height=100&lines=%E2%96%B6+React+%7C+Next.js+%7C+React+Native+%7C+Node.js;%E2%96%B6+MySQL+%7C+MongoDB+%7C+Redis+%7C+Docker+%7C+Kubernetes;%E2%96%B6+CI%2FCD+with+GitHub+Actions+%2F+GitLab+CI;%E2%96%B6+Exploring+Prompt+Engineering+%26+AI+Tooling" alt="Typing SVG" />
 
-<br/> <br/>
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mann2007-ptl&color=00FFB3&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
@@ -201,17 +199,17 @@ I started with **HTML, CSS, JavaScript, Git, GitHub, and Figma**, which helped m
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=mann2007-ptl&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mann2007-ptl&show_icons=true&theme=radical"/>
-
-</div>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mann2007-ptl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00D9FF&text_color=C9D1D9&ring_color=00FFB3&count_private=true" />
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mann2007-ptl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=C9D1D9" />
 
 <br/><br/>
 
----
-<div align="center">
+<img src="https://streak-stats.demolab.com?user=mann2007-ptl&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB3&fire=00D9FF&currStreakLabel=00FFB3&sideLabels=C9D1D9&dates=C9D1D9&sideNums=00FFB3&currStreakNum=00D9FF" alt="GitHub Streak" />
 
-[![Mann's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mann2007-ptl&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mann2007-ptl&bg_color=0D1117&color=00FFB3&line=00D9FF&point=FFA116&area=true&hide_border=true" width="96%" alt="Activity Graph" />
 
 </div>
 
@@ -232,12 +230,6 @@ I started with **HTML, CSS, JavaScript, Git, GitHub, and Figma**, which helped m
 </a>
 
 </div>
-
----
-
-## My Contributions
-
-![Contributions](https://ssr-contributions-svg.vercel.app/_/Dev1822?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large)
 
 ---
 
